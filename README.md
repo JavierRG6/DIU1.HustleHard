@@ -38,8 +38,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  Javier Romero Gálvez     :octocat:     
- * :bust_in_silhouette:  Pablo Antonio Caballero Carmona     :octocat:
+ * :bust_in_silhouette:  [Javier Romero Gálvez](https://github.com/JavierRG6) :octocat:     
+ * :bust_in_silhouette:  [Pablo Antonio Caballero Carmona](https://github.com/pabloacaballer) :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
