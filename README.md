@@ -64,32 +64,31 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.
-Nuestro proyecto se centra en el análisis del sector de la hostelería temática, concretamente en la experiencia que une la gastronomía japonesa (Ramen) con la cultura del anime. En el marco de la candidatura de Granada a Capital Cultural 2031, investigaremos cómo los usuarios interactúan con plataformas que ofrecen no solo comida, sino una inmersión cultural. El objetivo es identificar las motivaciones y barreras de los "otakus", turistas culturales y jóvenes locales, analizando cómo la interfaz de Anime Ramen comunica este valor diferencial frente a competidores como Ramen Dojo. Buscamos optimizar el flujo de reserva y consulta de carta para convertir una necesidad básica (comer) en una experiencia de usuario memorable y eficiente
+Nuestro proyecto se centra en el análisis de la hostelería temática, concretamente en la unión de la gastronomía japonesa con la cultura del anime en el contexto de Granada 2031. Investigaremos cómo los usuarios interactúan con plataformas que ofrecen una inmersión cultural, identificando motivaciones y barreras de los "otakus" y turistas. El objetivo es evaluar si la interfaz de **Anime Ramen** comunica su valor diferencial frente a competidores como **Ramen Dojo**. Buscamos optimizar el flujo de reserva y consulta de carta para convertir una necesidad básica (comer) en una experiencia de usuario memorable, eficiente y alineada con la innovación hostelera.
 
+### Objetivos generales + KPI's o Métricas
 
+| Objetivos | KPI's / Métricas |
+| :--- | :--- |
+| **Aumentar la conversión de reservas** en el restaurante temático | - Tasa de finalización del formulario de reserva <br> - Número de reservas confirmadas vía web mensual |
+| **Consolidar el sentimiento de comunidad** "Anime & Food" | - Número de registros en el club de fidelidad/newsletter <br> - Interacciones en la sección de eventos culturales |
+| **Evaluar la eficacia del diseño visual** temático | - Tiempo promedio de permanencia en la galería de platos <br> - Tasa de rebote en la página de inicio |
+| **Medir la satisfacción de la experiencia** de usuario digital | - Puntuación media en encuestas de satisfacción (CSAT) <br> - Ratio de clics (CTR) en el menú digital interactivo |
 
+---
 
-Información cualitativa y cuantitativa
+### Información cualitativa y cuantitativa
+A continuación definiremos los métodos para obtenerlos:
 
-A continuación, definiremos los métodos para obtener estos datos:
+#### Información cualitativa:
+* **Análisis Heurístico:** Realizaremos una inspección de la interfaz basada en los principios de usabilidad para detectar fallos de diseño y navegación.
+* **Entrevistas en profundidad:** Hablaremos con usuarios habituales de restaurantes temáticos para entender qué valoran más (ambientación, rapidez, fidelidad al anime).
+* **Pruebas de usabilidad:** Evaluaremos la facilidad de uso de las funcionalidades clave (reserva y menú) obteniendo feedback directo.
 
-Información cualitativa:
-
-    Análisis Heurístico: Realizaremos una inspección de la interfaz basada en los principios de usabilidad para detectar fallos de diseño y navegación.
-
-    Entrevistas en profundidad: Hablaremos con usuarios habituales de restaurantes temáticos para entender qué valoran más (ambientación, rapidez, fidelidad al anime).
-
-    Shadowing (Observación): Observar cómo un usuario real intenta buscar una mesa o un plato específico en la web de la competencia (Ramen Dojo) para anotar frustraciones.
-
-Información cuantitativa:
-
-    Encuestas de usabilidad (SUS): Aplicaremos el System Usability Scale para obtener una métrica numérica sobre la facilidad de uso de la web.
-
-    Analítica Web: Mediremos el flujo de navegación para ver en qué paso del proceso de pedido o reserva abandonan más usuarios.
-
-    Test A/B: Comparar dos versiones de la visualización del menú (con fotos vs. solo texto) para ver cuál genera más interés (clics).
-
+#### Información cuantitativa:
+* **Encuestas de satisfacción:** Realizaremos cuestionarios para medir el agrado de los usuarios durante la navegación y su interés por la temática anime.
+* **Análisis de métricas:** Mediremos parámetros como el tiempo promedio de permanencia o la tasa de abandono en el proceso de reserva.
+* **Cuestionarios SUS:** Aplicaremos la escala *System Usability Scale* para obtener un valor numérico sobre la facilidad de uso del sistema.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
