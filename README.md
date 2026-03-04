@@ -88,6 +88,10 @@ Hemos decidido centrarnos en la web de Anime Ramen. Consideramos que, aunque tie
 
 Nuestro objetivo es detectar áreas de mejora en la usabilidad de Anime Ramen tomando como referencia los puntos fuertes de la competencia, especialmente en la claridad del menú y la eficiencia del sistema de reservas.
 
+- https://animeramen.com/
+- https://ramendojo.org/
+- https://www.ramenshifu.com/
+
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
