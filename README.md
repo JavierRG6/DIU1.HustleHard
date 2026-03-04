@@ -49,10 +49,6 @@ Miembros y nombre del equipo:
 
 # Proceso de Diseño 
 
-
-
-
-
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
@@ -94,8 +90,9 @@ A continuación definiremos los métodos para obtenerlos:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos decidido centrarnos en la web de Anime Ramen. Consideramos que, aunque tiene una propuesta visual potente, presenta oportunidades de mejora en la fluidez de reserva y la jerarquía de información frente a sus competidores. Analizaremos esta plataforma frente a Ramen Dojo, que destaca por su integración de comunidad y eventos, y Akiba (o similar), un referente en el sector de restauración tematizada con un flujo de usuario muy pulido.
 
+Nuestro objetivo es detectar áreas de mejora en la usabilidad de Anime Ramen tomando como referencia los puntos fuertes de la competencia, especialmente en la claridad del menú y la eficiencia del sistema de reservas.
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
