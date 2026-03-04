@@ -64,7 +64,31 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+>>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.
+Nuestro proyecto se centra en el análisis del sector de la hostelería temática, concretamente en la experiencia que une la gastronomía japonesa (Ramen) con la cultura del anime. En el marco de la candidatura de Granada a Capital Cultural 2031, investigaremos cómo los usuarios interactúan con plataformas que ofrecen no solo comida, sino una inmersión cultural. El objetivo es identificar las motivaciones y barreras de los "otakus", turistas culturales y jóvenes locales, analizando cómo la interfaz de Anime Ramen comunica este valor diferencial frente a competidores como Ramen Dojo. Buscamos optimizar el flujo de reserva y consulta de carta para convertir una necesidad básica (comer) en una experiencia de usuario memorable y eficiente
+
+
+
+
+Información cualitativa y cuantitativa
+
+A continuación, definiremos los métodos para obtener estos datos:
+
+Información cualitativa:
+
+    Análisis Heurístico: Realizaremos una inspección de la interfaz basada en los principios de usabilidad para detectar fallos de diseño y navegación.
+
+    Entrevistas en profundidad: Hablaremos con usuarios habituales de restaurantes temáticos para entender qué valoran más (ambientación, rapidez, fidelidad al anime).
+
+    Shadowing (Observación): Observar cómo un usuario real intenta buscar una mesa o un plato específico en la web de la competencia (Ramen Dojo) para anotar frustraciones.
+
+Información cuantitativa:
+
+    Encuestas de usabilidad (SUS): Aplicaremos el System Usability Scale para obtener una métrica numérica sobre la facilidad de uso de la web.
+
+    Analítica Web: Mediremos el flujo de navegación para ver en qué paso del proceso de pedido o reserva abandonan más usuarios.
+
+    Test A/B: Comparar dos versiones de la visualización del menú (con fotos vs. solo texto) para ver cuál genera más interés (clics).
 
 
 ### 1.b Competitive Analysis
