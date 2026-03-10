@@ -99,6 +99,11 @@ Nuestro objetivo es detectar áreas de mejora en la usabilidad de Anime Ramen to
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
+PERSONA 1: USUARIO QUE LE GUSTA LA COMIDA JAPONESA
+
+PERSONA 2: USUARIO CONSUMIDOR DE ANIME
+
+
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
