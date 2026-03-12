@@ -107,7 +107,7 @@ Alejandro es una persona muy metódica y exigente. Es ingeniero de software, y f
 
 <img width="873" height="548" alt="image" src="https://github.com/user-attachments/assets/da682c24-4544-41f3-8886-924986ffc8f0" />
 
-Martina como estudiante de bellas artes
+Martina como estudiante de bellas artes, por lo que es el tipo de persona que busca en la gastronomia una extensión de su identidad, es decir que busca que el local encaje con como ella se ve a sí misma. Para Martina el restaurante es un sitio de inspiración donde su principal punto de atracción es el storytelling inspirado en la estetica slice of life de obras de Miyazaki. Como usuaria introvertida, busca sitios con poco ruido que le permitan concentración e introspección mientras consume. Es un usuario que prioriza la coherencia y la atmosfera que transmite el local a la rapidez y facilidad del servicio, buscando experiencias que la hagan sentir en "casa". 
 
 
 ### 1.d User Journey Map
