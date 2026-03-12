@@ -117,10 +117,14 @@ PERSONA 2: USUARIO CONSUMIDOR DE ANIME
 
 Enlace al documento: [Análisis de Usabilidad - Ramen Dojo](./P1/Usability-review-RamenDojo.xlsx)
 
-URL y Valoración numérica obtenida: https://ramendojo.org/ — 66.17/100 (Moderate)
+URL y Valoración numérica obtenida: https://ramendojo.org/ — 66/100 (Moderate)
 
 Comentario sobre la revisión:
 Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calificación moderada. Como punto fuerte destaca su excelente estética inmersiva, que conecta perfectamente con el público objetivo mediante el uso de recursos visuales del mundo anime. Sin embargo, se han detectado varios puntos débiles que afectan a la experiencia: la navegación es inconsistente en algunos apartados, falta un buscador interno y los formularios de interacción no ofrecen un feedback claro al usuario. Además, se observa una falta de ayudas o guías para usuarios novatos, lo que justifica la necesidad de una propuesta de mejora en el diseño de la interfaz.
+
+**Resultado del análisis:**
+
+![Resultado de usabilidad de Ramen Dojo](./P1/resultado-obtenido.jpg)
 
 <br>
 
