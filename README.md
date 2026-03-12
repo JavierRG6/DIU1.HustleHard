@@ -103,9 +103,11 @@ Nuestro objetivo es detectar áreas de mejora en la usabilidad de Anime Ramen to
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
-PERSONA 1: USUARIO QUE LE GUSTA LA COMIDA JAPONESA
+<img width="755" height="476" alt="image" src="https://github.com/user-attachments/assets/ead98350-6af0-4998-84d1-c497ff664fc0" />
 
-PERSONA 2: USUARIO CONSUMIDOR DE ANIME
+
+<img width="721" height="457" alt="image" src="https://github.com/user-attachments/assets/ac985104-c826-49b5-9ef8-d0de32afc6e9" />
+
 
 
 ### 1.d User Journey Map
