@@ -115,10 +115,12 @@ PERSONA 2: USUARIO CONSUMIDOR DE ANIME
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Enlace al documento: Análisis de Usabilidad - Ramen Dojo
+
+URL y Valoración numérica obtenida: https://ramendojo.org/ — 66.17/100 (Moderate)
+
+Comentario sobre la revisión:
+Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calificación moderada. Como punto fuerte destaca su excelente estética inmersiva, que conecta perfectamente con el público objetivo mediante el uso de recursos visuales del mundo anime. Sin embargo, se han detectado varios puntos débiles que afectan a la experiencia: la navegación es inconsistente en algunos apartados, falta un buscador interno y los formularios de interacción no ofrecen un feedback claro al usuario. Además, se observa una falta de ayudas o guías para usuarios novatos, lo que justifica la necesidad de una propuesta de mejora en el diseño de la interfaz.
 
 <br>
 
