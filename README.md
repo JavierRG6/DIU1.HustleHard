@@ -124,7 +124,7 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 
 **Resultado del análisis:**
 
-![Resultado obtenido](./P1/Resultado-obtenido.jpg)
+![Resultado obtenido](./P1/Resultado-obtenido.png)
 <br>
 
 ## Paso 2. UX Design  
