@@ -100,11 +100,12 @@ Nuestro objetivo es detectar áreas de mejora en la usabilidad de Anime Ramen to
 ![Método UX](img/Persona.png) 
 ----- 
 
-<img width="755" height="476" alt="image" src="https://github.com/user-attachments/assets/ead98350-6af0-4998-84d1-c497ff664fc0" />
+<img width="783" height="493" alt="image" src="https://github.com/user-attachments/assets/b0bc21a9-9423-47a8-a465-69febb6915fc" />
+
 
 Alejandro es una persona muy metódica y exigente. Es ingeniero de software, y fanático del cine Japonés. Su comportamiento se define por la busqueda de la eficiencia y simplicidad. Alejandro buscaba un nuevo restaurante que probar de su comida favorita, aun siendo introvertido se lanzó a probar Anime ... debido a su canal digital. Su interés por el cine Japonés y el anime no es solo por lo estético, si no también por lo estructural, le motiva la construcción de mundos. Para Alejandro el restaurante funciona como un momento de desconexión en el que la calidad del producto, el servicio y la fácil manejabilidad de las "herramientas" le hacen descansar de su mente metódica y sus días agotadores. No perdona errores en la ejecución pero que se convierte en un cliente usual si el establecimiento está a la altura de sus expectativas.
 
-<img width="721" height="457" alt="image" src="https://github.com/user-attachments/assets/ac985104-c826-49b5-9ef8-d0de32afc6e9" />
+<img width="873" height="548" alt="image" src="https://github.com/user-attachments/assets/da682c24-4544-41f3-8886-924986ffc8f0" />
 
 Martina como estudiante de bellas artes
 
