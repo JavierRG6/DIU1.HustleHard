@@ -98,16 +98,15 @@ Nuestro objetivo es detectar áreas de mejora en la usabilidad de Anime Ramen to
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
------
-
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
+----- 
 
 <img width="755" height="476" alt="image" src="https://github.com/user-attachments/assets/ead98350-6af0-4998-84d1-c497ff664fc0" />
 
+Alejandro es una persona muy metódica y exigente. Es ingeniero de software, y fanático del cine Japonés. Su comportamiento se define por la busqueda de la eficiencia y simplicidad. Alejandro buscaba un nuevo restaurante que probar de su comida favorita, aun siendo introvertido se lanzó a probar Anime ... debido a su canal digital. Su interés por el cine Japonés y el anime no es solo por lo estético, si no también por lo estructural, le motiva la construcción de mundos. Para Alejandro el restaurante funciona como un momento de desconexión en el que la calidad del producto, el servicio y la fácil manejabilidad de las "herramientas" le hacen descansar de su mente metódica y sus días agotadores. No perdona errores en la ejecución pero que se convierte en un cliente usual si el establecimiento está a la altura de sus expectativas.
 
 <img width="721" height="457" alt="image" src="https://github.com/user-attachments/assets/ac985104-c826-49b5-9ef8-d0de32afc6e9" />
 
+Martina como estudiante de bellas artes
 
 
 ### 1.d User Journey Map
