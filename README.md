@@ -92,6 +92,10 @@ Nuestro objetivo es detectar áreas de mejora en la usabilidad de Anime Ramen to
 - https://ramendojo.org/
 - https://www.ramenshifu.com/
 
+**Análisis Competitivo:**
+
+![Análisis Competitivo](./P1/Análisis_Competitivo.png)
+
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
