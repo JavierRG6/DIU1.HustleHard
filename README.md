@@ -115,7 +115,7 @@ PERSONA 2: USUARIO CONSUMIDOR DE ANIME
 ![Método UX](img/usabilityReview.png) 
 ----
 
-Enlace al documento: Análisis de Usabilidad - Ramen Dojo
+Enlace al documento: [Análisis de Usabilidad - Ramen Dojo](./P1/Usability-review-RamenDojo.xlsx)
 
 URL y Valoración numérica obtenida: https://ramendojo.org/ — 66.17/100 (Moderate)
 
