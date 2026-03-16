@@ -27,11 +27,11 @@ Grupo: DIU1.HustleHard  Curso: 2025/26
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre Proyecto: Ghibli Experience
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra propuesta va a ser la creación de un restaurante en el que la temática va a ser el mundo Ghibli, tratará de un restaurante que girará entorno a 4 peliculas de Hayao Miyazaki en el que según tu personalidad y estado de ánimo puedas vivir distintas experiencias. No solo tratará de un simple restaurante con pegatinas sin sentido alguno entre ellas, tendrá una coherencia y unas experencias únicas según elijas el "bioma" en el que comer. Cada uno aparte de permitir escoger el plato que se quiera dispondrá de un menú especial y 
 
 Logotipo: 
 
