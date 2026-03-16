@@ -31,7 +31,8 @@ Nombre Proyecto: Ghibli Experience
 
 Descripción: 
 
-Nuestra propuesta va a ser la creación de un restaurante en el que la temática va a ser el mundo Ghibli, tratará de un restaurante que girará entorno a 4 peliculas de Hayao Miyazaki en el que según tu personalidad y estado de ánimo puedas vivir distintas experiencias. No solo tratará de un simple restaurante con pegatinas sin sentido alguno entre ellas, tendrá una coherencia y unas experencias únicas según elijas el "bioma" en el que comer. Cada uno aparte de permitir escoger el plato que se quiera dispondrá de un menú especial y 
+Nuestra propuesta consiste en la creación de un restaurante inspirado en el universo creativo de Hayao Miyazaki y las peliculas de Studio Ghinli. El concepto del restaurante gira entorno a cuatro peliculas diferentes, ofrenciendo a los clientes la posibilidad de elegir la experiencia que desean vivir según su personalidad y estado de ánimo en el que se encuentren. No solo tratará de un simple restaurante convencional basado en decoración superficial, sino  en un espacio con coherencia narrativa y estética, donde cada ambiente represente un "bioma" inspirado en una película concreta.
+Cada uno de estos espacios contará con una ambientación propia, una zona diferenciada y un menú especial inspirado en la obra correspondiente. Además, los clientes podrán elegir cualquier plato de la carta general, pero también tendrán la opción de disfrutar de platos exclusivos vinculados a la experiencia seleccionada. Todas estas experiencias diferentes reflejarán también la temática y sentimientos de la película.
 
 Logotipo: 
 
