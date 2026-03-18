@@ -35,10 +35,5 @@ Evaluación técnica de la usabilidad del sistema/web analizada.
 
 ---
 
-## 5. Caso de Estudio (Case Study)
-*Breve descripción técnica del proceso seguido, herramientas utilizadas (por ejemplo, Figma, Miro, Excel) y metodología aplicada durante la práctica.*
-
----
-
-## 6. Valoración final del equipo
+## 5. Valoración final del equipo
 *Escribe aquí vuestra opinión sobre cómo ha ido la práctica, qué dificultades habéis encontrado y qué habéis aprendido durante el proceso.*
