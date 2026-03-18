@@ -11,7 +11,7 @@
 
 ## 1. Desk research: Análisis Competencia
 Análisis detallado de los principales competidores en el sector para identificar puntos fuertes y debilidades.
-* [Enlace al Análisis de Competencia](./Analisis_Competitivo.png)
+* [Enlace al Análisis de Competencia](./Análisis_Competitivo.png)
 
 ---
 
