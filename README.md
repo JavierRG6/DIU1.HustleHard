@@ -101,7 +101,8 @@ Martina como estudiante de bellas artes, por lo que es el tipo de persona que bu
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-<img width="686" height="546" alt="image" src="https://github.com/user-attachments/assets/adb1dab2-8d89-4832-82ea-74bbdc1d8790" />
+<img width="631" height="487" alt="image" src="https://github.com/user-attachments/assets/b874cfb6-a3b4-45aa-9a05-36cbcb6443ac" />
+
 
 
  Su experiencia ha sido positiva, sobre todo porque la web le ha agradado y también ha podido disfrutar de su plato favorito uniendolo a su hobbit por el anime.
