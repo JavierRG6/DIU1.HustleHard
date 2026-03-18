@@ -101,9 +101,8 @@ Martina como estudiante de bellas artes, por lo que es el tipo de persona que bu
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
+<img width="646" height="501" alt="image" src="https://github.com/user-attachments/assets/07a854e6-e999-412b-8141-a291b75327cd" />
+ Su experiencia ha sido positiva, sobre todo porque la web le ha agradado y también ha podido disfrutar de su plato favorito uniendolo a su hobbit por el anime.
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
