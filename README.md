@@ -88,7 +88,7 @@ Nuestro objetivo es detectar áreas de mejora en la usabilidad de Anime Ramen to
 ![Método UX](img/Persona.png) 
 ----- 
 
-<img width="783" height="493" alt="image" src="https://github.com/user-attachments/assets/b0bc21a9-9423-47a8-a465-69febb6915fc" />
+<img width="873" height="548" alt="image" src="https://github.com/user-attachments/assets/b0bc21a9-9423-47a8-a465-69febb6915fc" />
 
 
 Alejandro es una persona muy metódica y exigente. Es ingeniero de software, y fanático del cine Japonés. Su comportamiento se define por la busqueda de la eficiencia y simplicidad. Alejandro buscaba un nuevo restaurante que probar de su comida favorita, aun siendo introvertido se lanzó a probar Anime ... debido a su canal digital. Su interés por el cine Japonés y el anime no es solo por lo estético, si no también por lo estructural, le motiva la construcción de mundos. Para Alejandro el restaurante funciona como un momento de desconexión en el que la calidad del producto, el servicio y la fácil manejabilidad de las "herramientas" le hacen descansar de su mente metódica y sus días agotadores. No perdona errores en la ejecución pero que se convierte en un cliente usual si el establecimiento está a la altura de sus expectativas.
@@ -101,16 +101,15 @@ Martina como estudiante de bellas artes, por lo que es el tipo de persona que bu
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-<img width="631" height="487" alt="image" src="https://github.com/user-attachments/assets/b874cfb6-a3b4-45aa-9a05-36cbcb6443ac" />
-
+<img width="1037" height="808" alt="image" src="https://github.com/user-attachments/assets/b874cfb6-a3b4-45aa-9a05-36cbcb6443ac" />
 
 
  Su experiencia ha sido positiva, sobre todo porque la web le ha agradado y también ha podido disfrutar de su plato favorito uniendolo a su hobbit por el anime.
+ 
 
  <img width="1037" height="808" alt="imagen" src="https://github.com/user-attachments/assets/88b508e3-33a1-48c7-9cec-de76f9f2ec6b" />
 
- 
-
+Su experiencia destaca por la transformación emocional: llega con un bloqueo creativo y encuentra en la atmósfera inmersiva del local la inspiración que necesitaba. La clave de su éxito es la coherencia entre la narrativa visual y el producto, logrando que se sienta "fuera de la ciudad"
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
