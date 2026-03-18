@@ -24,8 +24,8 @@ Definición de usuarios ficticios para representar los diferentes perfiles de nu
 
 ## 3. User Journey Map
 Mapeo de la experiencia de usuario para cada una de las personas definidas anteriormente, identificando puntos de dolor y oportunidades.
-* [Journey Map 1 - Basado en Persona 1](./ruta-a-imagen-o-pdf)
-* [Journey Map 2 - Basado en Persona 2](./ruta-a-imagen-o-pdf)
+* [Journey Map 1 - Basado en Alejandro Gálvez](./ruta-a-imagen-o-pdf)
+* [Journey Map 2 - Basado en Martina Nuñez](./MartinaUser.png)
 
 ---
 
