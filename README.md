@@ -107,7 +107,7 @@ Martina como estudiante de bellas artes, por lo que es el tipo de persona que bu
  Su experiencia ha sido positiva, sobre todo porque la web le ha agradado y también ha podido disfrutar de su plato favorito uniendolo a su hobbit por el anime.
  
 
- <img width="1037" height="808" alt="imagen" src="https://github.com/user-attachments/assets/88b508e3-33a1-48c7-9cec-de76f9f2ec6b" />
+<img width="1032" height="817" alt="imagen" src="https://github.com/user-attachments/assets/198e0d1e-385d-4911-be85-5ce3386fd476" />
 
 Su experiencia destaca por la transformación emocional: llega con un bloqueo creativo y encuentra en la atmósfera inmersiva del local la inspiración que necesitaba. La clave de su éxito es la coherencia entre la narrativa visual y el producto, logrando que se sienta "fuera de la ciudad"
 
