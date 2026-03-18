@@ -18,7 +18,7 @@ Análisis detallado de los principales competidores en el sector para identifica
 ## 2. Personas
 Definición de usuarios ficticios para representar los diferentes perfiles de nuestro público objetivo.
 * [Persona 1 - Nombre de la Persona](./ruta-a-imagen-o-pdf)
-* [Persona 2 - Nombre de la Persona](./ruta-a-imagen-o-pdf)
+* [Persona 2 - Nombre de la Persona](./Captura de pantalla 2026-03-12 160640.png)
 
 ---
 
