@@ -139,7 +139,7 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
-<img width="1301" height="990" alt="MapaEmpatía" src="https://github.com/user-attachments/assets/fadec301-e51a-4cfd-8479-a468568ef638" />
+<img width="992" height="761" alt="MapaEmpatía" src="https://github.com/user-attachments/assets/bd648b5b-cd02-4e5a-b571-83802d49725b" />
 
  Interesante | Críticas     
 | ------------- | -------
