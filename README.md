@@ -139,6 +139,7 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
+<img width="1301" height="990" alt="MapaEmpatía" src="https://github.com/user-attachments/assets/fadec301-e51a-4cfd-8479-a468568ef638" />
 
  Interesante | Críticas     
 | ------------- | -------
@@ -152,6 +153,7 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
+<img width="1335" height="724" alt="ScopeCanvas" src="https://github.com/user-attachments/assets/619cda98-33bc-4e43-8b81-d042070bce80" />
 
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
