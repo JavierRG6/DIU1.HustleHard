@@ -131,13 +131,9 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 <img width="992" height="761" alt="MapaEmpatía" src="https://github.com/user-attachments/assets/bd648b5b-cd02-4e5a-b571-83802d49725b" />
 
@@ -154,11 +150,6 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 ![Método UX](img/ScopeCanvas.png)
 ----
 <img width="1335" height="724" alt="ScopeCanvas" src="https://github.com/user-attachments/assets/619cda98-33bc-4e43-8b81-d042070bce80" />
-
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
