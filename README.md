@@ -162,7 +162,7 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 ![Método UX](img/labelling.png) 
 ----
 
-<img width="1465" height="488" alt="imagen" src="https://github.com/user-attachments/assets/6ad80c8e-30f4-41ce-ba31-ae44330e3a3f" />
+<img width="1493" height="505" alt="imagen" src="https://github.com/user-attachments/assets/7c0252fc-4771-4345-b506-b5b2541bffb1" />
 
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
