@@ -161,6 +161,8 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+<img width="1405" height="460" alt="imagen" src="https://github.com/user-attachments/assets/8c383159-f5ff-4dd0-82fe-511e2aaa58e0" />
+
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
