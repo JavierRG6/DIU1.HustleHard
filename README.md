@@ -189,8 +189,8 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+<img width="351" height="719" alt="imagen" src="https://github.com/user-attachments/assets/ffa4efdd-2459-410e-827f-d072bb75892c" />
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
 <br>
 
