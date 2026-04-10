@@ -168,22 +168,22 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 
 | Web | Información | Referencia |
 |---|---|---|
-| **Página de Inicio** | Punto de acceso principal y presentación del sitio web. | 🌐 |
-| **Carta** | Sección principal para consultar el catálogo o selección de elementos. | 📖 |
-| **Participantes** | Detalles e información sobre los miembros, equipos o entidades participantes. | 👥 |
-| **Biomas** | Catálogo organizado por diferentes ecosistemas o categorías temáticas. | 🌿 |
-| **Bioma 1** | Categoría o ecosistema específico de tipo boscoso. | 🌳 |
-| **Bioma 2** | Categoría o ecosistema específico de tipo desértico. | 🏜️ |
-| **Bioma 3** | Categoría o ecosistema específico de tipo acuático. | 🌊 |
-| **Bioma 4** | Categoría o ecosistema específico de tipo ártico/nevado. | ❄️ |
-| **Filtros** | Herramienta para refinar y personalizar la búsqueda dentro de la Carta. | 🔍 |
-| **Mapa Iterativo** | Plano interactivo detallado para la ubicación de elementos y navegación. | 🗺️ |
-| **Reservas** | Sistema central para gestionar y realizar reservas de espacio o servicios. | 🗓️ |
-| **Selección de Mesa** | Mapa visual para elegir la ubicación específica de la reserva. | 🪑 |
-| **Horario** | Selector de franjas horarias disponibles para las reservas. | 📅 |
-| **Confirmación de Reserva**| Generación y envío del justificante o código de acceso de la reserva. | ✅ |
-| **FAQs** | Sección de preguntas frecuentes para resolver dudas rápidas del usuario. | ❓ |
-| **Contacto** | Información y canales de comunicación con la organización. | 📮 |
+| **Página de Inicio** | La portada donde aterrizas. Te da la bienvenida y te resume de qué va el proyecto. | 🌐 |
+| **Carta** | Nuestro catálogo principal. Aquí se puede ver de un vistazo toda la oferta que tenemos montada. | 📖 |
+| **Participantes** | Para saber quién es quién. Muestra la información de la gente o proyectos que colaboran. | 👥 |
+| **Biomas** | La categoría principal que agrupa todo por ecosistemas o temáticas para que esté bien organizado. | 🌿 |
+| **Bioma 1** | Sección dedicada al primer entorno (ej. zona de bosque) con sus detalles específicos. | 🌳 |
+| **Bioma 2** | Sección dedicada al segundo entorno (ej. zona árida/desierto). | 🏜️ |
+| **Bioma 3** | Sección dedicada al tercer entorno (ej. zona acuática). | 🌊 |
+| **Bioma 4** | Sección dedicada al cuarto entorno (ej. zona fría/nieve). | ❄️ |
+| **Filtros** | Para que el usuario no se vuelva loco buscando y vaya directo al grano según lo que le interese. | 🔍 |
+| **Mapa Interactivo** | El plano para que la gente cotillee el recinto, se ubique y sepa dónde está cada cosa. | 🗺️ |
+| **Reservas** | El apartado principal para pillar sitio antes de ir. | 🗓️ |
+| **Selección de Mesa** | El croquis visual donde eliges exactamente en qué silla te quieres sentar. | 🪑 |
+| **Horario** | Para marcar el tramo de horas que mejor te venga y ver qué hay libre. | 📅 |
+| **Confirmación de Reserva**| La pantalla de éxito que te suelta el "¡Todo listo!" y te da el ticket o QR. | ✅ |
+| **FAQs** | Las típicas dudas que tiene todo el mundo, respondidas aquí para ahorrar tiempo. | ❓ |
+| **Contacto** | Por si se quedan con alguna duda más rara y necesitan mandarnos un correo o llamarnos. | 📮 |
 
 
 ### 2.d Wireframes
