@@ -164,12 +164,26 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 
 <img width="1493" height="505" alt="imagen" src="https://github.com/user-attachments/assets/7c0252fc-4771-4345-b506-b5b2541bffb1" />
 
+### Labelling del Sitemap
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+| Web | Información | Referencia |
+|---|---|---|
+| **Página de Inicio** | Punto de acceso principal y presentación del sitio web. | 🌐 |
+| **Carta** | Sección principal para consultar el catálogo o selección de elementos. | 📖 |
+| **Participantes** | Detalles e información sobre los miembros, equipos o entidades participantes. | 👥 |
+| **Biomas** | Catálogo organizado por diferentes ecosistemas o categorías temáticas. | 🌿 |
+| **Bioma 1** | Categoría o ecosistema específico de tipo boscoso. | 🌳 |
+| **Bioma 2** | Categoría o ecosistema específico de tipo desértico. | 🏜️ |
+| **Bioma 3** | Categoría o ecosistema específico de tipo acuático. | 🌊 |
+| **Bioma 4** | Categoría o ecosistema específico de tipo ártico/nevado. | ❄️ |
+| **Filtros** | Herramienta para refinar y personalizar la búsqueda dentro de la Carta. | 🔍 |
+| **Mapa Iterativo** | Plano interactivo detallado para la ubicación de elementos y navegación. | 🗺️ |
+| **Reservas** | Sistema central para gestionar y realizar reservas de espacio o servicios. | 🗓️ |
+| **Selección de Mesa** | Mapa visual para elegir la ubicación específica de la reserva. | 🪑 |
+| **Horario** | Selector de franjas horarias disponibles para las reservas. | 📅 |
+| **Confirmación de Reserva**| Generación y envío del justificante o código de acceso de la reserva. | ✅ |
+| **FAQs** | Sección de preguntas frecuentes para resolver dudas rápidas del usuario. | ❓ |
+| **Contacto** | Información y canales de comunicación con la organización. | 📮 |
 
 
 ### 2.d Wireframes
