@@ -158,7 +158,8 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 
 En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido cinco tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L):
 
-<img width="369" height="133" alt="image" src="https://github.com/user-attachments/assets/b29386d0-5f2c-446e-9133-56ca78e1adc4" />
+<img width="1493" height="555" alt="image" src="https://github.com/user-attachments/assets/237d4d37-28de-4d28-a747-9237f59ddbf8" />
+
 
 
 Y hemos mostrado el flujo de la tarea que consideramos mas importante: 
