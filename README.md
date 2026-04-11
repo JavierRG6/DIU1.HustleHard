@@ -156,6 +156,14 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido cinco tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L):
+>>> <img width="369" height="133" alt="image" src="https://github.com/user-attachments/assets/b29386d0-5f2c-446e-9133-56ca78e1adc4" />
+
+Y hemos mostrado el flujo de la tarea que consideramos mas importante: 
+
+FLUJO DE RESERVA DE MESA
+<img width="271" height="519" alt="image" src="https://github.com/user-attachments/assets/6539d085-657e-4b9a-9577-f93629741a0f" />
+
 
 
 ### 2.c IA: Sitemap + Labelling 
