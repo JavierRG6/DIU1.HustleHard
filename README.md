@@ -155,9 +155,9 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+
 En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido cinco tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L):
->>> 
+
 >>> <img width="369" height="133" alt="image" src="https://github.com/user-attachments/assets/b29386d0-5f2c-446e-9133-56ca78e1adc4" />
 
 
