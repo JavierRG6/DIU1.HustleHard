@@ -17,9 +17,16 @@ Para alinear todas estas necesidades de los usuarios con nuestros objetivos de n
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
 
+En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido cinco tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L):
+
+<img width="1493" height="555" alt="image" src="https://github.com/user-attachments/assets/237d4d37-28de-4d28-a747-9237f59ddbf8" />
+
+Y hemos mostrado el flujo de la tarea que consideramos mas importante: 
+
+FLUJO DE RESERVA DE MESA
+
+<img width="271" height="519" alt="image" src="https://github.com/user-attachments/assets/6539d085-657e-4b9a-9577-f93629741a0f" />
 
 ### ARQUITECTURA DE INFORMACIÓN
 
