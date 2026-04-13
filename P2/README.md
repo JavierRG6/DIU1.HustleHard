@@ -59,7 +59,7 @@ FLUJO DE RESERVA DE MESA
 
 Esquema visual de la pantalla de inicio para dispositivos móviles, diseñado como reflejo directo del Sitemap del proyecto. La interfaz prioriza la accesibilidad y la claridad visual mediante un menú de navegación fijo superior, facilitando la exploración inmediata de la Carta, las distintas categorías de Biomas y las herramientas de filtrado y búsqueda.
 
-<img width="351" height="719" alt="imagen" src="https://github.com/user-attachments/assets/ffa4efdd-2459-410e-827f-d072bb75892c" />
+<img width="417" height="852" alt="imagen" src="https://github.com/user-attachments/assets/1f10f976-90a4-40c2-aefd-5e62973be745" />
 
 Esquema visual de la pantalla de inicio para ordenador, diseñado como reflejo direto del Sitemap del proyecto. La interfaz prioriza la accesbilidad y la claridad visual mediante un menu de navegación fijo, facilitando la exploración inmediata de la Carta, las distinas categorias de Biomas y las herramientas de filtrado y búsqueda.
 
