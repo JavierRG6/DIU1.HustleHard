@@ -33,7 +33,7 @@ FLUJO DE RESERVA DE MESA
 #### Sitemap
 <img width="1493" height="505" alt="imagen" src="https://github.com/user-attachments/assets/7c0252fc-4771-4345-b506-b5b2541bffb1" />
 
-### Labelling del Sitemap
+#### Labelling del Sitemap
 
 | Web | Información | Referencia |
 |---|---|---|
