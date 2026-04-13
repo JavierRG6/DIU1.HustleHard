@@ -174,7 +174,7 @@ FLUJO DE RESERVA DE MESA
 ![Método UX](img/labelling.png) 
 ----
 
-<img width="1493" height="505" alt="imagen" src="https://github.com/user-attachments/assets/7c0252fc-4771-4345-b506-b5b2541bffb1" />
+<img width="1439" height="562" alt="imagen" src="https://github.com/user-attachments/assets/323c9498-5701-4bbe-9a4a-40af3449dc0d" />
 
 ### Labelling del Sitemap
 
