@@ -31,7 +31,7 @@ FLUJO DE RESERVA DE MESA
 ### ARQUITECTURA DE INFORMACIÓN
 
 #### Sitemap
-<img width="1493" height="505" alt="imagen" src="https://github.com/user-attachments/assets/7c0252fc-4771-4345-b506-b5b2541bffb1" />
+<img width="1439" height="562" alt="imagen" src="https://github.com/user-attachments/assets/9e75dba3-45e4-4cce-b905-824f740df213" />
 
 #### Labelling del Sitemap
 
