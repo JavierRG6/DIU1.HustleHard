@@ -7,12 +7,13 @@ Para sentar las bases de nuestro proyecto, hemos comenzado la fase de ideación 
 <img width="980" height="796" alt="imagen" src="https://github.com/user-attachments/assets/cc3fac5d-69fa-47c3-82fd-28b909e3cd26" />
 
 ### PROPUESTA DE VALOR
-Nuestro propósito con la plataforma de Anime Ramen va más allá de mostrar una carta digital. Nos enfocamos en ofrecer una experiencia inmersiva y personalizable desde el momento en el que el usuario entra en la web.
+Nuestro propósito principal con la renovación de Anime Ramen es transformar un restaurante temático convencional en una experiencia de inmersión total inspirada en los mundos de Studio Ghibli y Hayao Miyazaki. Queremos ir más allá de la típica decoración "de cartón piedra" para ofrecer un refugio donde la gastronomía, el diseño y la tranquilidad se unan.
 
-En primer lugar, solucionamos el problema de la incertidumbre al reservar, implementando un sistema de reservas por "Biomas". De esta forma, los usuarios pueden elegir específicamente en qué entorno temático desean comer, asegurándose el ambiente perfecto para relajarse, dibujar o desconectar.
+Nuestra propuesta de valor ataca directamente las frustraciones más comunes de los usuarios: los locales frikis ruidosos, la comida que no cumple las expectativas visuales y la incertidumbre de no saber dónde te van a sentar. Para solucionarlo, el núcleo de nuestro proyecto es un sistema de reserva web basado en "Biomas". De esta forma, el usuario puede elegir desde su móvil el ambiente exacto que encaja con su mood (ya sea para estar de chill o con amigos) y explorar una carta digital interactiva que cuenta la historia de cada plato.
 
-En segundo lugar, nuestra propuesta se basa en la autenticidad visual y gastronómica. A través de la interfaz de la web, transmitimos que nuestro restaurante no es una simple decoración comercial, sino un espacio donde la calidad de la comida artesanal está al mismo nivel que el nivel de detalle estético que los fans disfrutan en el cine de animación.
+Para alinear todas estas necesidades de los usuarios con nuestros objetivos de negocio (tanto a corto como a largo plazo), hemos desarrollado el siguiente Scope Canvas. Esta herramienta nos ha servido como hoja de ruta para definir las acciones concretas que buscamos en nuestros clientes y las métricas que determinarán el éxito del proyecto:
 
+<img width="1279" height="725" alt="imagen" src="https://github.com/user-attachments/assets/a9cd7ead-bcaa-4f76-b541-f51efeccc467" />
 
 ### TASK ANALYSIS
 
