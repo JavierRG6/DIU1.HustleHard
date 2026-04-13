@@ -57,6 +57,14 @@ FLUJO DE RESERVA DE MESA
 
 ### Prototipo Lo-FI Wireframe 
 
+Esquema visual de la pantalla de inicio para dispositivos móviles, diseñado como reflejo directo del Sitemap del proyecto. La interfaz prioriza la accesibilidad y la claridad visual mediante un menú de navegación fijo superior, facilitando la exploración inmediata de la Carta, las distintas categorías de Biomas y las herramientas de filtrado y búsqueda.
+
+<img width="351" height="719" alt="imagen" src="https://github.com/user-attachments/assets/ffa4efdd-2459-410e-827f-d072bb75892c" />
+
+Esquema visual de la pantalla de inicio para ordenador, diseñado como reflejo direto del Sitemap del proyecto. La interfaz prioriza la accesbilidad y la claridad visual mediante un menu de navegación fijo, facilitando la exploración inmediata de la Carta, las distinas categorias de Biomas y las herramientas de filtrado y búsqueda.
+
+<img width="809" height="575" alt="image" src="https://github.com/user-attachments/assets/3c974039-8ced-48ff-bb20-0bff171a7366" />
+
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
