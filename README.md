@@ -137,18 +137,18 @@ Tras realizar el análisis de usabilidad de Ramen Dojo, se ha obtenido una calif
 
 <img width="992" height="761" alt="MapaEmpatía" src="https://github.com/user-attachments/assets/bd648b5b-cd02-4e5a-b571-83802d49725b" />
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
+
+### PROPUESTA DE VALOR
+Nuestro propósito principal con la renovación de Anime Ramen es transformar un restaurante temático convencional en una experiencia de inmersión total inspirada en los mundos de Studio Ghibli y Hayao Miyazaki. Queremos ir más allá de la típica decoración "de cartón piedra" para ofrecer un refugio donde la gastronomía, el diseño y la tranquilidad se unan.
+
+Nuestra propuesta de valor ataca directamente las frustraciones más comunes de los usuarios: los locales frikis ruidosos, la comida que no cumple las expectativas visuales y la incertidumbre de no saber dónde te van a sentar. Para solucionarlo, el núcleo de nuestro proyecto es un sistema de reserva web basado en "Biomas". De esta forma, el usuario puede elegir desde su móvil el ambiente exacto que encaja con su mood (ya sea para estar de chill o con amigos) y explorar una carta digital interactiva que cuenta la historia de cada plato.
+
+Para alinear todas estas necesidades de los usuarios con nuestros objetivos de negocio (tanto a corto como a largo plazo), hemos desarrollado el siguiente Scope Canvas. Esta herramienta nos ha servido como hoja de ruta para definir las acciones concretas que buscamos en nuestros clientes y las métricas que determinarán el éxito del proyecto:
+
 <img width="1335" height="724" alt="ScopeCanvas" src="https://github.com/user-attachments/assets/619cda98-33bc-4e43-8b81-d042070bce80" />
 
 ### 2.b User Flow (task) analysis 
