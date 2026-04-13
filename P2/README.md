@@ -67,8 +67,14 @@ Esquema visual de la pantalla de inicio para ordenador, diseñado como reflejo d
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Tras el análisis exhaustivo de los usuarios objetivo y el desarrollo de nuestra propuesta de rediseño para Anime Ramen, hemos llegado a las siguientes conclusiones sobre esta etapa del proyecto:
 
+Identificación de necesidades emocionales: Gracias a herramientas como el Mapa de Empatía [AÑADIR ENLACE AQUÍ] y el Scope Canvas [AÑADIR ENLACE AQUÍ], detectamos que la fricción del usuario no residía en el proceso de pedir comida, sino en la incertidumbre del ambiente (ruido, decoración genérica). Hemos pasado de concebir una web puramente informativa a diseñar una plataforma de "reserva de experiencias" basada en Biomas.
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Optimización de la Arquitectura de la Información: El diseño de nuestro Sitemap [AÑADIR ENLACE AQUÍ] ha resuelto el reto de unificar la exploración del catálogo con la conversión. Hemos separado de forma lógica el viaje del usuario: por un lado, la inmersión visual en la Carta y, por otro, un embudo de Reservas lineal y claro que guía al cliente paso a paso hasta confirmar su mesa en su entorno favorito.
+
+Validación mediante Wireframes: La creación de los Wireframes (versión Mobile y Desktop) [AÑADIR ENLACES AQUÍ] nos ha permitido comprobar que es posible mantener una interfaz limpia, accesible y libre de distracciones, alineada con la "paz" y estética de Studio Ghibli que queremos transmitir en el local físico.
+
+Valoración final del equipo:
+La realización de esta práctica nos ha resultado fundamental a Javier y a Pablo para interiorizar que el diseño UX/UI va mucho más allá de hacer pantallas estéticamente bonitas. Nos ha obligado a pensar de manera estratégica, comprendiendo que cada botón, cada flujo de reserva y cada decisión de diseño debe estar justificada por una necesidad real del usuario y alineada con los objetivos de negocio. Ha sido un reto transformar un concepto tan abstracto y emocional como "la magia del anime" en una estructura digital funcional, lógica y fácil de usar.
+
