@@ -77,5 +77,6 @@ Optimización de la Arquitectura de la Información: El diseño de nuestro Sitem
 
 Validación mediante Wireframes: La creación de los Wireframes (versión Mobile y Desktop) nos ha permitido comprobar que es posible mantener una interfaz limpia, accesible y libre de distracciones, alineada con la "paz" y estética de Studio Ghibli que queremos transmitir en el local físico.
 
-Valoración final del equipo:
+#### Valoración final del equipo
+
 La realización de esta práctica nos ha resultado fundamental a Javier y a Pablo para interiorizar que el diseño UX/UI va mucho más allá de hacer pantallas estéticamente bonitas. Nos ha obligado a pensar de manera estratégica, comprendiendo que cada botón, cada flujo de reserva y cada decisión de diseño debe estar justificada por una necesidad real del usuario y alineada con los objetivos de negocio. Ha sido un reto transformar un concepto tan abstracto y emocional como "la magia del anime" en una estructura digital funcional, lógica y fácil de usar.
