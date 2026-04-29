@@ -1,6 +1,10 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
+- Moodboard (diseño visual + logotipo)
+
+<img width="1324" height="824" alt="imagen" src="https://github.com/user-attachments/assets/6bcfc5cd-c2f2-46c2-8bd5-69363f51cf3b" />
+
+
 - Landing Page
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
