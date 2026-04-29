@@ -229,6 +229,8 @@ Esquema visual de la pantalla de inicio para ordenador, diseñado como reflejo d
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
+<img width="1324" height="824" alt="imagen" src="https://github.com/user-attachments/assets/3013cbe5-03e8-4c91-88df-190bb4b12b32" />
+
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
