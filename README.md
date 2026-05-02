@@ -208,7 +208,7 @@ Esquema visual de la pantalla de inicio para dispositivos móviles, diseñado co
 <img width="377" height="824" alt="imagen" src="https://github.com/user-attachments/assets/23b616fa-a552-4c6d-b9d9-2aea1f280241" />
 
 
-Esquema visual de la pantalla de inicio para ordenador, diseñado como reflejo direto del Sitemap del proyecto. La interfaz prioriza la accesbilidad y la claridad visual mediante un menu de navegación fijo, facilitando la exploración inmediata de la Carta, las distinas categorias de Biomas y las herramientas de filtrado y búsqueda.
+Esquema visual de la pantalla de inicio para ordenador y el de todas las subsecciones diseñado como reflejo direto del Sitemap del proyecto. La interfaz prioriza la accesbilidad y la claridad visual mediante un menu de navegación fijo, facilitando la exploración inmediata de la Carta, las distinas categorias de Biomas y las herramientas de filtrado y búsqueda.
 
 
 <img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/749c87d4-267b-41ba-913d-228edad23faa" />
