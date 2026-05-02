@@ -65,9 +65,32 @@ Esquema visual de la pantalla de inicio para dispositivos móviles, diseñado co
 
 
 
-Esquema visual de la pantalla de inicio para ordenador, diseñado como reflejo direto del Sitemap del proyecto. La interfaz prioriza la accesbilidad y la claridad visual mediante un menu de navegación fijo, facilitando la exploración inmediata de la Carta, las distinas categorias de Biomas y las herramientas de filtrado y búsqueda.
+Esquema visual de la pantalla de inicio para ordenador y el de todas las subsecciones diseñado como reflejo direto del Sitemap del proyecto. La interfaz prioriza la accesbilidad y la claridad visual mediante un menu de navegación fijo, facilitando la exploración inmediata de la Carta, las distinas categorias de Biomas y las herramientas de filtrado y búsqueda.
 
-<img width="809" height="575" alt="image" src="https://github.com/user-attachments/assets/3c974039-8ced-48ff-bb20-0bff171a7366" />
+
+<img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/749c87d4-267b-41ba-913d-228edad23faa" />
+<br> 
+
+Carta: 
+<img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/18cd03f6-2bef-4d71-8760-0e26cd66a4d0" />
+<br>
+
+Reserva:
+<img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/1c1ddbc7-c1b9-4c4c-ab7e-3ef6f63d2b56" />
+<br>
+
+Mapa Interactivo:
+<img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/e6dc2712-6a05-45fe-9cdc-ec55e87c1aa3" />
+<br>
+
+FAQs:
+<img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/71ea9d81-a827-476c-b1e9-49a834ad92c7" />
+<br>
+
+Contacto:
+<img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/98736e3b-b540-4525-a5f0-7dd0ce00cd73" />
+
+<br>
 
 
 ### Conclusiones  
