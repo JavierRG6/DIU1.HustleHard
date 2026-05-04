@@ -23,11 +23,24 @@ Cada uno de estos espacios contará con una ambientación propia, una zona difer
 
 Logotipo: 
 
-<img width="111" height="111" alt="imagen" src="https://github.com/user-attachments/assets/e2b86236-caef-4b05-b558-3ad1e2dffd94" />
+<div align="center">
 
+<svg width="120" height="120" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="90" height="90" rx="15" ry="15" fill="#fdfae6"/>
+  <text x="50" y="42" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" letter-spacing="1">
+    <tspan x="50" dy="0" fill="#a81a3a">ANI</tspan>
+    <tspan x="50" dy="22" fill="#2d2d2d">ME</tspan>
+  </text>
+  <text x="50" y="85" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#d1385c" letter-spacing="0.5">
+    RAMEN
+  </text>
+</svg>
 
 # Anime Ramen
 ### *Cuatro mundos. Un cuenco.*
+
+---
+</div>
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  [Javier Romero Gálvez](https://github.com/JavierRG6) :octocat:     
