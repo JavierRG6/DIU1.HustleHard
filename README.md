@@ -270,8 +270,7 @@ Contacto:
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
+👉 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/waJHVowmzAK5YK8yJwvYkh/Mockup_principal?node-id=1-308&p=f&t=2KEITyGYh89mQHJ3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A308)
 
 <br>
 
