@@ -22,7 +22,7 @@ Nuestra propuesta consiste en la creación de un restaurante inspirado en el uni
 Cada uno de estos espacios contará con una ambientación propia, una zona diferenciada y un menú especial inspirado en la obra correspondiente. Además, los clientes podrán elegir cualquier plato de la carta general, pero también tendrán la opción de disfrutar de platos exclusivos vinculados a la experiencia seleccionada. Todas estas experiencias diferentes reflejarán también la temática y sentimientos de la película.
 
 Logotipo: 
-<img width="1440" height="1000" alt="imagen" src="https://github.com/user-attachments/assets/8fcdd079-e161-46de-8828-2ae06e56c4e7" />
+<img width="510" height="532" alt="imagen" src="https://github.com/user-attachments/assets/84a9b8fa-cfdf-437b-ae7f-5e95d8043144" />
 
 (Logo y eslogan hechos en la práctica 3)
 
