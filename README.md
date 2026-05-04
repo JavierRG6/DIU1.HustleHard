@@ -22,34 +22,10 @@ Nuestra propuesta consiste en la creación de un restaurante inspirado en el uni
 Cada uno de estos espacios contará con una ambientación propia, una zona diferenciada y un menú especial inspirado en la obra correspondiente. Además, los clientes podrán elegir cualquier plato de la carta general, pero también tendrán la opción de disfrutar de platos exclusivos vinculados a la experiencia seleccionada. Todas estas experiencias diferentes reflejarán también la temática y sentimientos de la película.
 
 Logotipo: 
+<img width="1440" height="1000" alt="imagen" src="https://github.com/user-attachments/assets/8fcdd079-e161-46de-8828-2ae06e56c4e7" />
 
-<div align="center">
+(Logo y eslogan hechos en la práctica 3)
 
-<div style="
-  display: inline-block;
-  background-color: #fdfae6; 
-  padding: 20px; 
-  border-radius: 20px; 
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-  margin-bottom: 20px;
-">
-  <div style="font-family: 'Arial', sans-serif; line-height: 1.2;">
-    <span style="font-weight: bold; font-size: 24px; color: #a81a3a;">ANI</span><br>
-    <span style="font-weight: bold; font-size: 24px; color: #2d2d2d;">ME</span>
-    <div style="font-weight: bold; font-size: 14px; color: #d1385c; margin-top: 5px;">RAMEN</div>
-  </div>
-</div>
-
-# Anime Ramen
-### *Cuatro mundos. Un cuenco.*
-
-</div>
-
-# Anime Ramen
-### *Cuatro mundos. Un cuenco.*
-
----
-</div>
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  [Javier Romero Gálvez](https://github.com/JavierRG6) :octocat:     
