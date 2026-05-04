@@ -23,7 +23,11 @@ Cada uno de estos espacios contará con una ambientación propia, una zona difer
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<img width="111" height="111" alt="imagen" src="https://github.com/user-attachments/assets/e2b86236-caef-4b05-b558-3ad1e2dffd94" />
+
+
+# Anime Ramen
+### *Cuatro mundos. Un cuenco.*
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  [Javier Romero Gálvez](https://github.com/JavierRG6) :octocat:     
