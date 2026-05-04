@@ -25,16 +25,25 @@ Logotipo:
 
 <div align="center">
 
-<svg width="120" height="120" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="90" height="90" rx="15" ry="15" fill="#fdfae6"/>
-  <text x="50" y="42" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" letter-spacing="1">
-    <tspan x="50" dy="0" fill="#a81a3a">ANI</tspan>
-    <tspan x="50" dy="22" fill="#2d2d2d">ME</tspan>
-  </text>
-  <text x="50" y="85" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#d1385c" letter-spacing="0.5">
-    RAMEN
-  </text>
-</svg>
+<div style="
+  display: inline-block;
+  background-color: #fdfae6; 
+  padding: 20px; 
+  border-radius: 20px; 
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+">
+  <div style="font-family: 'Arial', sans-serif; line-height: 1.2;">
+    <span style="font-weight: bold; font-size: 24px; color: #a81a3a;">ANI</span><br>
+    <span style="font-weight: bold; font-size: 24px; color: #2d2d2d;">ME</span>
+    <div style="font-weight: bold; font-size: 14px; color: #d1385c; margin-top: 5px;">RAMEN</div>
+  </div>
+</div>
+
+# Anime Ramen
+### *Cuatro mundos. Un cuenco.*
+
+</div>
 
 # Anime Ramen
 ### *Cuatro mundos. Un cuenco.*
