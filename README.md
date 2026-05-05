@@ -204,35 +204,46 @@ FLUJO DE RESERVA DE MESA
 ![Método UX](img/Wireframes.png) 
 -----
 
+
 Esquema visual de la pantalla de inicio para dispositivos móviles, diseñado como reflejo directo del Sitemap del proyecto. La interfaz prioriza la accesibilidad y la claridad visual mediante un menú de navegación fijo superior, facilitando la exploración inmediata de la Carta, las distintas categorías de Biomas y las herramientas de filtrado y búsqueda.
 
 
 <img width="377" height="824" alt="imagen" src="https://github.com/user-attachments/assets/23b616fa-a552-4c6d-b9d9-2aea1f280241" />
 
 
-Esquema visual de la pantalla de inicio para ordenador y el de todas las subsecciones diseñado como reflejo direto del Sitemap del proyecto. La interfaz prioriza la accesbilidad y la claridad visual mediante un menu de navegación fijo, facilitando la exploración inmediata de la Carta, las distinas categorias de Biomas y las herramientas de filtrado y búsqueda.
+Esquema visual de la pantalla de inicio para ordenador y el de todas las subsecciones, diseñado como reflejo directo del Sitemap del proyecto. La interfaz prioriza la accesibilidad y la claridad visual mediante un menú de navegación fijo, facilitando la exploración inmediata de la Carta, las distintas categorías de Biomas y las herramientas de filtrado y búsqueda.
 
 
 <img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/749c87d4-267b-41ba-913d-228edad23faa" />
 <br> 
 
-Carta: 
+Carta:
+  Pantalla de exploración del catálogo gastronómico, organizada por biomas y categorías. Incluye sistema de filtrado, buscador y visualización de platos con nombre, descripción y precio.
+  
 <img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/18cd03f6-2bef-4d71-8760-0e26cd66a4d0" />
 <br>
 
 Reserva:
+  Flujo de reserva estructurado en cuatro pasos: selección de fecha, hora y comensales; elección de bioma; selección de mesa en plano interactivo; y pantalla de confirmación con referencia de  reserva.
+  
 <img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/1c1ddbc7-c1b9-4c4c-ab7e-3ef6f63d2b56" />
 <br>
 
 Mapa Interactivo:
+  Vista general del restaurante con representación visual de los cuatro biomas y sus mesas. Permite al usuario explorar la disponibilidad en tiempo real y acceder directamente al flujo de reserva desde el propio plano.
+  
 <img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/e6dc2712-6a05-45fe-9cdc-ec55e87c1aa3" />
 <br>
 
 FAQs:
+  Sección de preguntas frecuentes con buscador integrado y filtrado por categorías. Las respuestas se despliegan en formato acordeón para facilitar la lectura y reducir la carga visual.
+
 <img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/71ea9d81-a827-476c-b1e9-49a834ad92c7" />
 <br>
 
 Contacto:
+  Formulario de contacto con campos de nombre, email, motivo de consulta y mensaje, acompañado de información del local, horarios y mapa de ubicación. Incluye estado de confirmación tras el envío.
+  
 <img width="1285" height="984" alt="imagen" src="https://github.com/user-attachments/assets/98736e3b-b540-4525-a5f0-7dd0ce00cd73" />
 
 <br>
