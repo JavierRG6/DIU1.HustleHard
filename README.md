@@ -296,6 +296,25 @@ Formulario de contacto con campos de nombre, email, motivo de consulta y mensaje
 ![Método UX](img/mockup.png) 
 ----
 
+#### 1. Landing Page (Inicio)
+
+<img width="566" height="935" alt="imagen" src="https://github.com/user-attachments/assets/4f4e8498-6775-459d-a59f-df2725fac6c7" />
+<br>
+
+#### 2. Nuestra Carta
+
+<img width="439" height="671" alt="imagen" src="https://github.com/user-attachments/assets/eca564e1-f802-4a8f-a5d7-226599ee3d7e" />
+<br>
+
+#### 3. Reserva 
+
+
+
+
+
+
+
+
 👉 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/waJHVowmzAK5YK8yJwvYkh/Mockup_principal?node-id=1-308&p=f&t=2KEITyGYh89mQHJ3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A308)
 
 <br>
