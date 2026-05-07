@@ -27,7 +27,7 @@ Logotipo:
 <br>
 (Logo y eslogan desarrollados en la práctica 3)
 
-
+<br>
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  [Javier Romero Gálvez](https://github.com/JavierRG6) :octocat:     
  * :bust_in_silhouette:  [Pablo Antonio Caballero Carmona](https://github.com/pabloacaballer) :octocat:
