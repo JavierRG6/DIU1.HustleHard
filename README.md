@@ -262,20 +262,11 @@ Formulario de contacto con campos de nombre, email, motivo de consulta y mensaje
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
 <img width="844" height="683" alt="image" src="https://github.com/user-attachments/assets/a90bc991-8806-40a2-b207-06be3d571dd0" />
-
-
 
 
 ### 3.b Landing Page
