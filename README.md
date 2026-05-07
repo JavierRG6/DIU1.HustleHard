@@ -24,10 +24,9 @@ Cada uno de estos espacios contará con una ambientación propia, una zona difer
 Logotipo: 
 
 <img width="510" height="532" alt="imagen" src="https://github.com/user-attachments/assets/84a9b8fa-cfdf-437b-ae7f-5e95d8043144" />
-<br>
+
 (Logo y eslogan desarrollados en la práctica 3)
 
-<br>
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  [Javier Romero Gálvez](https://github.com/JavierRG6) :octocat:     
  * :bust_in_silhouette:  [Pablo Antonio Caballero Carmona](https://github.com/pabloacaballer) :octocat:
