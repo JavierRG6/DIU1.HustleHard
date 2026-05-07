@@ -305,12 +305,37 @@ Formulario de contacto con campos de nombre, email, motivo de consulta y mensaje
 <img width="563" height="744" alt="imagen" src="https://github.com/user-attachments/assets/94477ddd-b818-45ee-9555-a71eadfb8145" />
 <br>
 
+##### Paso 2: 
 
+<img width="563" height="744" alt="imagen" src="https://github.com/user-attachments/assets/aef68bfa-dcf9-4800-a169-279d4e8a7ad1" />
+<br>
 
+##### Paso 3: 
 
+<img width="567" height="745" alt="imagen" src="https://github.com/user-attachments/assets/f43b4567-c268-429e-b214-0eff5ecdd05c" />
+<br>
 
+##### Paso 4
 
-👉 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/waJHVowmzAK5YK8yJwvYkh/Mockup_principal?node-id=1-308&p=f&t=2KEITyGYh89mQHJ3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A308)
+<img width="567" height="745" alt="imagen" src="https://github.com/user-attachments/assets/85dcdbd7-2b84-4642-b140-35fdb0897a8f" />
+<br>
+
+#### Mapa Interactivo
+
+<img width="442" height="639" alt="imagen" src="https://github.com/user-attachments/assets/580854c2-f152-4709-b952-d9b702b97eec" />
+<br>
+
+#### FAQs (preguntas frecuentes)
+
+<img width="441" height="673" alt="imagen" src="https://github.com/user-attachments/assets/f75533b6-13fe-4bd2-9c05-4c5e5f9c7b37" />
+<br>
+
+#### Contacto
+
+<img width="439" height="626" alt="imagen" src="https://github.com/user-attachments/assets/22806221-b420-4ab3-b0bf-7056d06ccca7" />
+<br>
+
+Enlace al Prototipo Interactivo: Puedes navegar por la versión interactiva y probar las animaciones, estados hover y la navegación entre pantallas directamente en Figma a través del siguiente enlace: 👉 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/waJHVowmzAK5YK8yJwvYkh/Mockup_principal?node-id=1-308&p=f&t=2KEITyGYh89mQHJ3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A308)
 
 <br>
 
