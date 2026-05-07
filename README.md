@@ -300,7 +300,10 @@ Formulario de contacto con campos de nombre, email, motivo de consulta y mensaje
 
 #### 3. Reserva 
 
+##### Paso 1:
 
+<img width="563" height="744" alt="imagen" src="https://github.com/user-attachments/assets/94477ddd-b818-45ee-9555-a71eadfb8145" />
+<br>
 
 
 
