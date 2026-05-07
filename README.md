@@ -283,6 +283,7 @@ Formulario de contacto con campos de nombre, email, motivo de consulta y mensaje
 ----
 
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+<img width="377" height="629" alt="image" src="https://github.com/user-attachments/assets/14b6749e-f6fe-4ca5-840f-f78353bb520d" />
 
 
 ### 3.c Guidelines
