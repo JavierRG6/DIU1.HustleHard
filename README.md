@@ -273,7 +273,8 @@ Formulario de contacto con campos de nombre, email, motivo de consulta y mensaje
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
-<img width="895" height="707" alt="image" src="https://github.com/user-attachments/assets/17bc975e-e12f-4b62-8a48-df09a1b9284f" />
+<img width="844" height="683" alt="image" src="https://github.com/user-attachments/assets/a90bc991-8806-40a2-b207-06be3d571dd0" />
+
 
 
 
