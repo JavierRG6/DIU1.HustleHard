@@ -21,7 +21,7 @@ Descripción:
 Nuestra propuesta consiste en la creación de un restaurante inspirado en el universo creativo de Hayao Miyazaki y las peliculas de Studio Ghibli. El concepto del restaurante gira entorno a cuatro peliculas diferentes, ofrenciendo a los clientes la posibilidad de elegir la experiencia que desean vivir según su personalidad y estado de ánimo en el que se encuentren. No solo tratará de un simple restaurante convencional basado en decoración superficial, sino  en un espacio con coherencia narrativa y estética, donde cada ambiente represente un "bioma" inspirado en una película concreta.
 Cada uno de estos espacios contará con una ambientación propia, una zona diferenciada y un menú especial inspirado en la obra correspondiente. Además, los clientes podrán elegir cualquier plato de la carta general, pero también tendrán la opción de disfrutar de platos exclusivos vinculados a la experiencia seleccionada. Todas estas experiencias diferentes reflejarán también la temática y sentimientos de la película.
 
-Logotipo: 
+Logotipo: <br>
 <img width="510" height="532" alt="imagen" src="https://github.com/user-attachments/assets/84a9b8fa-cfdf-437b-ae7f-5e95d8043144" />
 
 (Logo y eslogan desarrollados en la práctica 3)
