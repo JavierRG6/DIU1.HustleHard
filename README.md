@@ -285,29 +285,34 @@ Diseñamos una landing page orientada a captar la atención del usuario desde el
 Para el desarrollo del prototipo Hi-Fi de **Anime Ramen** nos hemos apoyado en los principios de **Material Design 3** para construir una interfaz coherente, accesible y adaptada a la identidad visual del proyecto.
 
 **Herramientas y recursos base**
-- **Material Theme Builder:** Usado para generar la paleta tonal a partir de los colores definidos en el moodboard, asegurando un contraste adecuado entre fondos y textos.
-- **Material Symbols:** Iconografía estandarizada para la barra de navegación inferior y acciones secundarias.
+- **Material Theme Builder:** Usado para generar la paleta tonal a partir de los colores del moodboard, asegurando contraste adecuado entre fondos y textos.
+- **Material Symbols:** Iconografía estandarizada para la navegación y acciones secundarias.
 - **Figma:** Diseño de todos los componentes con Auto Layout para mantener consistencia y facilitar ajustes.
 
 **Paleta de colores**
-- **Fondo principal (Negro / Gris oscuro `#1A1A1A`):** Base de la interfaz, transmite la estética oscura y moderna del local.
-- **Superficie de contenido (Crema / Beige `#F5F0E8`):** Usado en cards y secciones de contenido secundario para generar contraste y legibilidad.
-- **Color de acción (Rojo `#C0392B`):** Reservado para botones principales, CTAs y elementos de acento. Refuerza la identidad visual del restaurante.
-- **Texto principal (Blanco / Crema):** Aplicado sobre fondos oscuros para garantizar una lectura cómoda.
+Extraída directamente del moodboard del proyecto, la paleta combina:
+- **Rojo oscuro / Granate:** Color principal de marca, usado en botones, CTAs y elementos de acento.
+- **Negro / Gris oscuro:** Fondo principal de la interfaz, refuerza la estética oscura e inmersiva.
+- **Crema / Beige:** Superficies de contenido secundario y cards, aporta calidez y contraste sobre el fondo oscuro.
+- **Verde oliva y azul apagado:** Colores de apoyo para categorías y etiquetas dentro de la carta.
 
 **Tipografía**
-- **Tipografía display (títulos):** Fuente expresiva usada en el nombre del restaurante y cabeceras principales, alineada con la temática del proyecto.
-- **Tipografía funcional (cuerpo y navegación):** Sans-serif limpia para textos de interfaz, formularios y descripciones, priorizando la legibilidad.
+Siguiendo las referencias del moodboard:
+- **Fuente display (títulos):** Tipografía serif de estilo editorial usada en el logotipo y cabeceras principales. Transmite la identidad narrativa y cinematográfica del restaurante.
+- **Fuente funcional (cuerpo):** Sans-serif de alta legibilidad para textos de interfaz, formularios y navegación, garantizando claridad en todos los tamaños.
+
+**Estilo de imágenes**
+Las imágenes siguen el criterio definido en el moodboard: fotografía de producto con estilo *still de película*, encuadres cerrados sobre los cuencos, iluminación cálida y ambiente japonés auténtico. Se evita la fotografía decorativa o de stock genérico.
 
 **Patrones UI aplicados**
 
 - **Tab Bar (navegación inferior fija):** Patrón principal de navegación presente en todas las pantallas. Permite cambiar entre secciones (Inicio, Carta, Reserva, Contacto) de forma rápida y consistente.
 - **Cards:** Utilizadas en la sección de carta y selección de mesas. Cada card agrupa imagen, nombre y precio de forma visualmente escaneable.
-- **Stepper (formulario por pasos):** El proceso de reserva se divide en 4 pasos para reducir la carga cognitiva. Se incluye un indicador de progreso en cada pantalla para que el usuario sepa en todo momento en qué punto se encuentra.
-- **Hero Image:** La landing page arranca con una imagen de cabecera a pantalla completa acompañada del nombre del restaurante y el CTA principal.
-- **Accordion / FAQ:** Las preguntas frecuentes se resuelven con un patrón de lista expandible que evita saturar la pantalla con texto.
-- **Feedback de confirmación:** La pantalla final del proceso de reserva muestra un mensaje de éxito con color verde e icono de check, aplicando el principio de visibilidad del estado del sistema de las heurísticas de Nielsen.
-- **Mapa interactivo:** Integración de un mapa para localizar el restaurante y visualizar la disponibilidad de mesas dentro del flujo de reserva.
+- **Stepper (formulario por pasos):** El proceso de reserva se divide en 4 pasos para reducir la carga cognitiva. Se incluye indicador de progreso en cada pantalla.
+- **Hero Image:** La landing page arranca con imagen de cabecera a pantalla completa con el nombre del restaurante y CTA principal.
+- **Accordion / FAQ:** Las preguntas frecuentes usan un patrón de lista expandible para no saturar la pantalla con texto.
+- **Feedback de confirmación:** La pantalla final de reserva muestra mensaje de éxito con color verde e icono de check, siguiendo el principio de visibilidad del estado del sistema de Nielsen.
+- **Mapa interactivo:** Integrado en el flujo de reserva para localizar el restaurante y visualizar disponibilidad de mesas.
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
