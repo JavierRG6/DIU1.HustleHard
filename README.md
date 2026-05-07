@@ -24,7 +24,7 @@ Cada uno de estos espacios contará con una ambientación propia, una zona difer
 Logotipo: 
 
 <img width="510" height="532" alt="imagen" src="https://github.com/user-attachments/assets/84a9b8fa-cfdf-437b-ae7f-5e95d8043144" />
-
+<br>
 (Logo y eslogan desarrollados en la práctica 3)
 
 
