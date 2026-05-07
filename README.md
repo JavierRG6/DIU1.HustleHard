@@ -266,15 +266,17 @@ Formulario de contacto con campos de nombre, email, motivo de consulta y mensaje
 ![Método UX](img/moodboard.png)
 -----
 
-<img width="844" height="683" alt="image" src="https://github.com/user-attachments/assets/a90bc991-8806-40a2-b207-06be3d571dd0" />
+Para definir la identidad visual del proyecto, elaboramos un moodboard que recoge los principales referentes estéticos y de diseño. A partir de él establecimos la paleta de colores, la tipografía y el estilo visual general que guiaría el resto del proceso de diseño.
 
+<img width="844" height="683" alt="image" src="https://github.com/user-attachments/assets/a90bc991-8806-40a2-b207-06be3d571dd0" />
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
-<img width="377" height="629" alt="image" src="https://github.com/user-attachments/assets/14b6749e-f6fe-4ca5-840f-f78353bb520d" />
+Diseñamos una landing page orientada a captar la atención del usuario desde el primer momento. El objetivo era transmitir de forma clara qué es Anime Ramen y por qué merece la pena visitarlo, priorizando una estructura sencilla y un llamada a la acción visible.
 
+<img width="377" height="629" alt="image" src="https://github.com/user-attachments/assets/14b6749e-f6fe-4ca5-840f-f78353bb520d" />
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
@@ -283,60 +285,55 @@ Formulario de contacto con campos de nombre, email, motivo de consulta y mensaje
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
-#### 1. Landing Page (Inicio)
+A partir de los guidelines definidos, desarrollamos el mockup de alta fidelidad en Figma. Las pantallas cubren los flujos principales de la aplicación: navegación por la carta, proceso de reserva paso a paso, mapa interactivo, FAQs y contacto. Se han tenido en cuenta aspectos como la consistencia visual, la jerarquía de la información y la usabilidad en móvil.
 
+#### 1. Landing Page (Inicio)
 <img width="566" height="935" alt="imagen" src="https://github.com/user-attachments/assets/4f4e8498-6775-459d-a59f-df2725fac6c7" />
 <br>
 
 #### 2. Nuestra Carta
-
 <img width="439" height="671" alt="imagen" src="https://github.com/user-attachments/assets/eca564e1-f802-4a8f-a5d7-226599ee3d7e" />
 <br>
 
 #### 3. Reserva 
 
-##### Paso 1:
+El proceso de reserva se divide en 4 pasos para simplificar la experiencia del usuario y reducir la carga cognitiva en cada pantalla.
 
+##### Paso 1:
 <img width="563" height="744" alt="imagen" src="https://github.com/user-attachments/assets/94477ddd-b818-45ee-9555-a71eadfb8145" />
 <br>
 
 ##### Paso 2: 
-
 <img width="563" height="744" alt="imagen" src="https://github.com/user-attachments/assets/aef68bfa-dcf9-4800-a169-279d4e8a7ad1" />
 <br>
 
 ##### Paso 3: 
-
 <img width="567" height="745" alt="imagen" src="https://github.com/user-attachments/assets/f43b4567-c268-429e-b214-0eff5ecdd05c" />
 <br>
 
 ##### Paso 4
-
 <img width="567" height="745" alt="imagen" src="https://github.com/user-attachments/assets/85dcdbd7-2b84-4642-b140-35fdb0897a8f" />
 <br>
 
 #### Mapa Interactivo
-
 <img width="442" height="639" alt="imagen" src="https://github.com/user-attachments/assets/580854c2-f152-4709-b952-d9b702b97eec" />
 <br>
 
 #### FAQs (preguntas frecuentes)
-
 <img width="441" height="673" alt="imagen" src="https://github.com/user-attachments/assets/f75533b6-13fe-4bd2-9c05-4c5e5f9c7b37" />
 <br>
 
 #### Contacto
-
 <img width="439" height="626" alt="imagen" src="https://github.com/user-attachments/assets/22806221-b420-4ab3-b0bf-7056d06ccca7" />
 <br>
 
-Enlace al Prototipo Interactivo: Puedes navegar por la versión interactiva y probar las animaciones, estados hover y la navegación entre pantallas directamente en Figma a través del siguiente enlace: 👉 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/waJHVowmzAK5YK8yJwvYkh/Mockup_principal?node-id=1-308&p=f&t=2KEITyGYh89mQHJ3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A308)
+---
 
+Enlace al Prototipo Interactivo: Puedes navegar por la versión interactiva y probar las animaciones, estados hover y la navegación entre pantallas directamente en Figma a través del siguiente enlace: 👉 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/waJHVowmzAK5YK8yJwvYkh/Mockup_principal?node-id=1-308&p=f&t=2KEITyGYh89mQHJ3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A308)
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
