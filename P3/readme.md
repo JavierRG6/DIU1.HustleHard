@@ -2,32 +2,55 @@
 
 A continuación se detallan los recursos y evidencias generados durante la práctica, junto con una descripción técnica de cada uno:
 
+---
+
 ### Moodboard
-* **Diseño visual y Logotipo**
-    * [Ver Moodboard](./Moodboard.png)
-    * *Descripción técnica:* Collage visual diseñado para establecer la línea gráfica y emocional de La Qarmita. Recopila tipografías, texturas, colores e imágenes de referencia que transmiten el concepto de "ocio lento". Sirve como base estética para el posterior desarrollo de componentes en el prototipado de alta fidelidad.
+**Diseño visual y Logotipo**
+[Ver Moodboard](./Moodboard.png)
+
+El moodboard recoge la línea gráfica y emocional del proyecto **Anime Ramen**, estableciendo la identidad visual desde sus fundamentos. Integra tipografías de inspiración japonesa, una paleta cromática definida (tonos principales y secundarios), texturas e imágenes de referencia que transmiten la fusión entre gastronomía japonesa y cultura anime. Actúa como guía estética para el desarrollo de componentes en el prototipado de alta fidelidad, garantizando coherencia visual en todas las pantallas.
+
+---
 
 ### Landing Page
-* **Prototipo visual inicial y rediseño responsive**
-    * [Ver Landing Page](./Landing_page.png) 
-    * *Descripción técnica:* Se diseñó una primera versión de la página principal enfocada en la estética. Posteriormente, tras evaluar problemas de legibilidad y adaptabilidad, se implementó un rediseño (`Landing-page-remodelada.png`) aplicando los principios de *Auto Layout* de Figma para garantizar un comportamiento *responsive* fluido en entornos de escritorio, corrigiendo al mismo tiempo el contraste de la paleta tonal para cumplir estándares de accesibilidad visual.
+**Prototipo visual inicial y rediseño responsive**
+[Ver Landing Page](./Landing_page.png)
 
-### Mockup: LAYOUT HI-FI
-* **Prototipo interactivo en alta fidelidad**
-    * [Ver Landing Page](./Landing_page.png) | [Ver Carta](./Libros.png) |[Ver Reserva Paso 1](./Reserva_1.png) |[Ver Reserva Paso 2](./Reserva_2.png) |[Ver Reserva Paso 3](./Reserva_3.png) |[Ver Reserva Paso 4](./Reserva_4.png) | [Ver Preguntas frecuentes(FAQs)](./Eventos.png) | [Ver Contacto](./Foro.png)
-    * *Descripción técnica:* Desarrollo del sistema de vistas completo (HTML/Figma) aplicando los patrones de diseño (UI Patterns) definidos. Se implementaron interacciones simuladas (estados hover, navegación entre vistas, simulación de inputs) para las áreas principales de la web, proporcionando a los *stakeholders* una visión realista del producto final antes de la fase de desarrollo.
+Se diseñó una primera versión de la página principal centrada en la estética de marca. Tras detectar problemas de legibilidad y adaptabilidad, se realizó un rediseño aplicando los principios de *Auto Layout* de Figma para asegurar un comportamiento *responsive* fluido en entornos de escritorio. Se corrigió además el contraste de la paleta tonal para cumplir con los estándares de accesibilidad visual (WCAG).
+
+---
+
+### Mockup: Layout Hi-Fi
+**Prototipo interactivo en alta fidelidad**
+
+| Vista | Enlace |
+|---|---|
+| Web principal | [Ver Web principal](./Web_principal.png) |
+| Carta | [Ver Carta](./Carta.png) |
+| Mapa interactivo | [Ver Mapa interactivo](./Mapa_interactivo.png) |
+| Reserva — Paso 1 | [Ver Reserva 1](./Reserva_1.png) |
+| Reserva — Paso 2 | [Ver Reserva 2](./Reserva_2.png) |
+| Reserva — Paso 3 | [Ver Reserva 3](./Reserva_3.png) |
+| Reserva — Paso 4 (Confirmación) | [Ver Reserva 4](./Reserva_4.png) |
+| Preguntas frecuentes (FAQs) | [Ver FAQs](./FAQs.png) |
+| Contacto | [Ver Contacto](./Contacto.png) |
+
+Se desarrolló el sistema de vistas completo aplicando los patrones de diseño (UI Patterns) definidos durante las fases previas. Se implementaron interacciones simuladas —estados hover, navegación entre vistas y simulación de inputs— para las áreas principales de la web, ofreciendo una visión realista del producto final antes de la fase de desarrollo.
+
+---
 
 ### Publicación del Case Study
-* **Documentación del proceso**
-    * [Ver README Principal](../README.md)
-    * *Descripción técnica:* Actualización del repositorio central integrando las decisiones de diseño (Guidelines, Atomic Design, Material Design 3, paleta de colores y tipografía) que fundamentan la evolución desde los *wireframes* de baja fidelidad hasta el prototipo Hi-Fi interactivo.
+**Documentación del proceso**
+[Ver README Principal](../README.md)
+
+Se actualizó el repositorio central integrando las decisiones de diseño que sustentan la evolución desde los *wireframes* de baja fidelidad hasta el prototipo Hi-Fi interactivo: Guidelines de marca, Atomic Design, Material Design 3, paleta de colores y sistema tipográfico.
 
 ---
 
 ### Conclusiones
 
-Como valoración final, esta tercera práctica ha sido, sin duda, la más exigente y visual de todas, pero también nos ha supuesto un choque de realidad importante. 
+Esta tercera práctica ha representado el reto más exigente de la asignatura, y también el más formativo. El salto desde los bocetos de baja fidelidad a un prototipo de alta fidelidad en Figma supuso adentrarse de forma acelerada en un entorno profesional: *Auto Layout*, componentes con variantes, interacciones entre pantallas y diseño *responsive* son conceptos que requieren tiempo de asimilación que, en el contexto de la práctica, hubo que comprimir considerablemente.
 
-Tenemos que ser del todo sinceros: el salto de hacer bocetos básicos a tener que dominar Figma a un nivel casi profesional (manejando *Auto Layout*, componentes interactivos, variantes y diseño *responsive*) ha sido bastante brusco. Hemos echado en falta un desarrollo más extenso en la teoría o unas prácticas previas más guiadas para asimilar estas herramientas paso a paso, ya que al principio nos sentíamos un poco abrumados y soltados "a los leones" con el software.
+No obstante, ese aprendizaje autónomo —a base de explorar la documentación, probar, romper cosas y volver a probar— ha tenido un valor pedagógico real. Ver cómo las pantallas cobran coherencia, cómo los componentes se adaptan solos gracias al sistema de diseño construido, o cómo el flujo de reserva encadena sus pasos de forma natural, son resultados concretos que demuestran que el proceso, aunque exigente, funcionó.
 
-Aun así, a base de ensayo y error, mucha paciencia y trabajo autónomo (buscando recursos, trasteando con la comunidad y aprendiendo sobre la marcha), hemos conseguido sacar el prototipo adelante. Ha sido un "búscate la vida" en toda regla, pero también es verdad que ver cómo las pantallas cobran vida, cómo los botones reaccionan y cómo las tarjetas se adaptan solas gracias al esfuerzo invertido es súper satisfactorio. Al final, aunque el camino ha sido empinado por la falta de base técnica previa, nos llevamos un aprendizaje enorme y muy práctico que seguramente nos sirva muchísimo de cara al mercado laboral.
+Como reflexión de mejora, consideramos que una base más guiada sobre Figma en las sesiones previas habría permitido dedicar más energía al diseño en sí y menos a superar la curva técnica de la herramienta. Aun así, el dominio adquirido sobre flujos de trabajo reales en diseño de producto es, sin duda, uno de los activos más transferibles al mercado laboral que nos llevamos de esta práctica.
