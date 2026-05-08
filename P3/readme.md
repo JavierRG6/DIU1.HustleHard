@@ -9,7 +9,7 @@ A continuación se detallan los recursos y evidencias generados durante la prác
 
 ### Landing Page
 * **Prototipo visual inicial y rediseño responsive**
-    * [Ver Landing Page Original](./Landing_page.png) 
+    * [Ver Landing Page](./Landing_page.png) 
     * *Descripción técnica:* Se diseñó una primera versión de la página principal enfocada en la estética. Posteriormente, tras evaluar problemas de legibilidad y adaptabilidad, se implementó un rediseño (`Landing-page-remodelada.png`) aplicando los principios de *Auto Layout* de Figma para garantizar un comportamiento *responsive* fluido en entornos de escritorio, corrigiendo al mismo tiempo el contraste de la paleta tonal para cumplir estándares de accesibilidad visual.
 
 ### Mockup: LAYOUT HI-FI
