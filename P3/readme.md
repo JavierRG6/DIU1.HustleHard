@@ -13,10 +13,10 @@ El moodboard recoge la línea gráfica y emocional del proyecto **Anime Ramen**,
 ---
 
 ### Landing Page
-**Prototipo visual inicial y rediseño responsive**
+**Prototipo visual**
 [Ver Landing Page](./Landing_page.png)
 
-Se diseñó una primera versión de la página principal centrada en la estética de marca. Tras detectar problemas de legibilidad y adaptabilidad, se realizó un rediseño aplicando los principios de *Auto Layout* de Figma para asegurar un comportamiento *responsive* fluido en entornos de escritorio. Se corrigió además el contraste de la paleta tonal para cumplir con los estándares de accesibilidad visual (WCAG).
+Se diseñó la página principal aplicando los principios de *Auto Layout* de Figma para garantizar un comportamiento *responsive* fluido en entornos de escritorio. La paleta tonal se definió teniendo en cuenta el contraste necesario para cumplir con los estándares de accesibilidad visual (WCAG).
 
 ---
 
