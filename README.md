@@ -282,38 +282,77 @@ Diseñamos una landing page orientada a captar la atención del usuario desde el
 ![Método UX](img/guidelines.png) 
 ----
 
-Para el desarrollo del prototipo Hi-Fi de **Anime Ramen** nos hemos apoyado en los principios de **Material Design 3** para construir una interfaz coherente, accesible y adaptada a la identidad visual del proyecto.
+Para el desarrollo del prototipo Hi-Fi de Anime Ramen (versión escritorio), hemos aplicado la metodología Atomic Design y los principios fundamentales de Material Design 3 para construir un sistema de diseño coherente, escalable y accesible. El estudio se complementa con las directrices WCAG 2.2 (accesibilidad), las heurísticas de usabilidad de Nielsen y las convenciones de diseño responsive mobile-first, asegurando que el sistema final sea robusto y profesional.
+Herramientas y Recursos base
 
-**Herramientas y recursos base**
-- **Material Theme Builder:** Usado para generar la paleta tonal a partir de los colores del moodboard, asegurando contraste adecuado entre fondos y textos.
-- **Material Symbols:** Iconografía estandarizada para la navegación y acciones secundarias.
-- **Figma:** Diseño de todos los componentes con Auto Layout para mantener consistencia y facilitar ajustes.
+Material Theme Builder: Hemos utilizado este plugin para generar nuestra paleta tonal a partir de los colores del moodboard (Rojo Ramen y Tinta Sumi como key colors), garantizando matemáticamente un contraste óptimo entre fondos y textos para cumplir con los estándares de accesibilidad WCAG 2.2 AA.
+Material Symbols: Empleado para integrar iconografía estandarizada y reconocible (búsqueda, calendario, reloj, ubicación, correo, idioma, redes sociales, navegación, favorito, check de confirmación).
+Figma Auto Layout: Todo el sistema se construye con Auto Layout (incluyendo la función Wrap) para asegurar un comportamiento responsive fluido y permitir reutilizar componentes a través de distintas pantallas con un único cambio.
+Google Fonts: DM Serif Display y Noto Serif JP cargadas como tipografías de marca, ambas open source y con buena cobertura para latín y kanji japonés (logo + acentos culturales).
+Figma Community & Plugins: Uso de plugins como Unsplash y UI Faces para enriquecer los mockups con imágenes reales (platos, interiores, avatares de usuario en testimonios).
 
-**Paleta de colores**
-Extraída directamente del moodboard del proyecto, la paleta combina:
-- **Rojo oscuro / Granate:** Color principal de marca, usado en botones, CTAs y elementos de acento.
-- **Negro / Gris oscuro:** Fondo principal de la interfaz, refuerza la estética oscura e inmersiva.
-- **Crema / Beige:** Superficies de contenido secundario y cards, aporta calidez y contraste sobre el fondo oscuro.
-- **Verde oliva y azul apagado:** Colores de apoyo para categorías y etiquetas dentro de la carta.
+Paleta de Colores (Accesibilidad y Contraste) Se han asignado roles estrictos a cada color siguiendo el sistema de tokens de Material Design 3, alcanzando un ratio de contraste de 13:1 entre la pareja Cream/Sumi (muy por encima del 4.5:1 mínimo exigido por WCAG):
 
-**Tipografía**
-Siguiendo las referencias del moodboard:
-- **Fuente display (títulos):** Tipografía serif de estilo editorial usada en el logotipo y cabeceras principales. Transmite la identidad narrativa y cinematográfica del restaurante.
-- **Fuente funcional (cuerpo):** Sans-serif de alta legibilidad para textos de interfaz, formularios y navegación, garantizando claridad en todos los tamaños.
+Primary (Rojo Ramen - #C8102E): Reservado exclusivamente para botones, llamadas a la acción (Call to Action), elementos del logo y acentos visuales clave (eyebrows, precios, badges destacados). El texto en su interior utiliza el token On Primary (cream #F4ECD8) para maximizar el contraste.
+Background / Surface (Tatami Cream - #F4ECD8): Lienzo principal de cards y contenido. Transmite calidez, papel washi y la sensación cálida de un izakaya tradicional.
+Surface inverso (Tinta Sumi - #1A1A1A): Fondo de página principal, hero sin card y CTA secundario nocturno. Refuerza la atmósfera cinematográfica e inmersiva del local.
+On Background / On Surface (Sumi sobre cream y cream sobre sumi): Aplicado a todos los textos e iconos para asegurar una lectura perfecta y sin fatiga visual.
+Secondary (Oro Hanko - #C9A961): Inspirado en los sellos hanko japoneses. Usado para detalles de marca, eyebrow text, divisores, badges editoriales y la franja vertical decorativa de las cards de información.
 
-**Estilo de imágenes**
-Las imágenes siguen el criterio definido en el moodboard: fotografía de producto con estilo *still de película*, encuadres cerrados sobre los cuencos, iluminación cálida y ambiente japonés auténtico. Se evita la fotografía decorativa o de stock genérico.
+Acentos por bioma Cada uno de los cuatro mundos Ghibli del concepto tiene un color de acento propio que se aplica de forma consistente en toda la web (tabs de bioma, etiquetas de plato, bordes de cards, colores de filtro, fondos de cabecera de tarjeta y micro-interacciones), creando un sistema de codificación visual instantáneo:
 
-**Patrones UI aplicados**
+Verde Bambú (#5B7F3D) — bioma Bosque (Primavera).
+Azul Profundo (#3B6E8F) — bioma Mar (Verano).
+Granate Lacado (#7A2A2A) — bioma Casa de Baños (Otoño).
+Azul Bruma (#6B8CAE) — bioma Cielo (Invierno).
 
-- **Tab Bar (navegación inferior fija):** Patrón principal de navegación presente en todas las pantallas. Permite cambiar entre secciones (Inicio, Carta, Reserva, Contacto) de forma rápida y consistente.
-- **Cards:** Utilizadas en la sección de carta y selección de mesas. Cada card agrupa imagen, nombre y precio de forma visualmente escaneable.
-- **Stepper (formulario por pasos):** El proceso de reserva se divide en 4 pasos para reducir la carga cognitiva. Se incluye indicador de progreso en cada pantalla.
-- **Hero Image:** La landing page arranca con imagen de cabecera a pantalla completa con el nombre del restaurante y CTA principal.
-- **Accordion / FAQ:** Las preguntas frecuentes usan un patrón de lista expandible para no saturar la pantalla con texto.
-- **Feedback de confirmación:** La pantalla final de reserva muestra mensaje de éxito con color verde e icono de check, siguiendo el principio de visibilidad del estado del sistema de Nielsen.
-- **Mapa interactivo:** Integrado en el flujo de reserva para localizar el restaurante y visualizar disponibilidad de mesas.
+Paleta de estados (sistema funcional) Comunicación visual instantánea para feedback de sistema:
 
+Verde Bosque (#5B7F3D) para estados positivos: mesa libre, mensaje enviado, paso completado.
+Rojo Primary (#C8102E) para alertas y ocupado.
+Oro Hanko (#C9A961) para selección actual.
+Tinta Sumi (#1A1A1A) para estados neutros.
+
+Tipografía
+
+DM Serif Display (Serif): Utilizada en titulares, encabezados (H1, H2) y nombres de plato. Refuerza la identidad editorial y cinematográfica de Studio Ghibli con remates clásicos sin caer en lo pomposo.
+Noto Serif JP (Serif japonés): Empleada en kanji decorativos del logo (anime ramen 漫拉) y acentos culturales puntuales. Open source, con cobertura completa de caracteres japoneses.
+Helvetica / Inter (Sans-Serif): Aplicada a textos de cuerpo, navegación, micro-copy, etiquetas, formularios y números (precios, horarios). Aporta limpieza y legibilidad en entornos digitales con tamaños pequeños.
+Tono de voz: Poético pero terrenal. Frases cortas. Comida con alma. Eyebrows en mayúsculas con letter-spacing 4-6 para crear ritmo editorial.
+
+Iconografía Iconos lineales 1.5-2px de grosor, esquinas ligeramente redondeadas, todos en On Surface (sumi sobre cream o cream sobre sumi). Familias usadas:
+
+Material Symbols Outlined para sistema (búsqueda, menú, calendario, reloj, ubicación, correo, teléfono, check, chevron, plus/minus).
+Set custom de redes sociales en cuadrados rounded 12px de Material 3.
+Emojis de bioma (🌿 Bosque · 🌊 Mar · 🏮 Casa de Baños · ☁️ Cielo) como anclas visuales rápidas en navegación, tabs y badges. Reemplazables por iconos custom en producción.
+Kanji decorativos (夢 sueño · 食 comida) usados como sello de marca en hero y CTAs principales — equivalente al "hanko" japonés.
+
+Patrones UI Aplicados (UI Patterns) y Comportamiento Todo el diseño se ha estructurado utilizando Auto Layout en Figma para asegurar un comportamiento responsive fluido en pantallas de escritorio (1440px), con previsión de adaptarse a tablet (768px) y móvil (375px) en la fase de prototipado.
+
+Top App Bar (Header) & Fat Footer: Elementos de navegación persistentes en todas las pantallas. El Header (sumi sobre fondo negro, 80px de alto) agrupa logotipo, menú principal con cinco entradas (Carta, Reservar, Mapa Interactivo, FAQs, Contacto), un selector de idioma y la sección activa marcada con un pill cream. El Footer, card cream rounded de 220px, cierra la estructura con tagline, columnas de enlaces legales y de utilidad, datos de contacto y red de iconos sociales en cuadrícula 2x2.
+Hero Pattern Editorial: Cabecera sin card, sobre fondo sumi a pantalla completa, con estructura tripartita: eyebrow oro en mayúsculas con letter-spacing 6, título principal en DM Serif Display (60-80 px) y subtítulo en cursiva. En la home se complementa con CTAs primario (rojo) y secundario (outline cream) más un mosaico 2×2 de los cuatro biomas, ganando presencia cinematográfica al ir directamente sobre el fondo.
+Grid Responsivo (Wrap): Uso avanzado de la función Wrap de Auto Layout en los catálogos de biomas (4×1 en home, 2×2 en moodboard), platos de la carta (2×2) y testimoniales para crear cuadrículas (Grids) de tarjetas que saltan de línea y se adaptan automáticamente al ancho disponible. Cada tarjeta mantiene proporciones consistentes con shape token de 24px de radio (Material 3 "Large").
+Stepper / Wizard de 4 pasos: El flujo de Reserva está dividido en cuatro pasos siguiendo el patrón Wizard (Fecha y comensales → Bioma → Mesa → Confirmación). Un stepper persistente muestra el estado de cada paso con tres variantes visuales (completado en cream con check verde, activo en rojo con número, futuro en outline cream con número), reduciendo la carga cognitiva y aplicando la heurística de Nielsen "reconocimiento mejor que recuerdo".
+Búsqueda y Filtros (Tabs y Pill Chips): Implementación de barras de búsqueda combinadas con "Chips" (pills rounded) para facilitar la exploración y el filtrado en las vistas de Carta, FAQs y Mapa Interactivo. La pill activa lleva fondo de color (rojo Primary o color del bioma) y la inactiva queda como outlined cream, complementada con atajo de teclado ⌘K visible — patrón típico de productos modernos como Linear o Notion.
+Accordion (FAQ): La sección de Preguntas Frecuentes usa el patrón acordeón con un único item expandible a la vez. Cabeceras en DM Serif con eyebrow del color de la categoría y toggle visual claro (círculo outline + ⊕ cerrado / círculo sumi + ⊖ abierto), aplicando el principio de información progresiva.
+Two-column Layout (60/40): Páginas con formulario más información complementaria (Contacto, Mapa Interactivo en escritorio) usan grid de dos columnas con proporción 60/40, donde la columna mayor lleva el contenido principal (formulario, plano interactivo) y la menor el contexto (info de contacto, panel de detalle de mesa). En tablet y móvil colapsa a una sola columna.
+Formularios con Estados: Inputs blancos con borde sumi 1.5px, esquinas rounded 10px, label superior en mayúsculas con letter-spacing 2 e indicador de obligatoriedad (*), placeholder en gris cursiva con ejemplo realista e iconografía contextual a la izquierda (calendario, reloj). Stepper numérico personalizado (− número +) para campos cuantitativos como comensales y textarea con contador de caracteres alineado a la derecha.
+Color-coded States en mapa interactivo: El plano del restaurante usa codificación visual estricta (verde Bosque para mesas disponibles, rojo Primary para ocupadas, oro Hanko con anillo punteado para la mesa actualmente seleccionada), cumpliendo la heurística de Nielsen "visibilidad del estado del sistema" — el usuario sabe en cualquier momento qué puede o no puede hacer.
+Status Pills y Badges editoriales: Pills rounded 22px con label en mayúsculas y letter-spacing aplicadas a etiquetas de plato (VEGANO, SIN GLUTEN, NUEVO, SIGNATURE, ★ MÁS PEDIDO) y a estados (LIBRE, OCUPADA, TEMPORADA ACTIVA), con colores de fondo coherentes con la paleta del sistema (verde para positivos, rojo para alertas, oro para premium).
+Success / Empty States: Estados de finalización con feedback visual fuerte mediante bloque verde Bosque a ancho completo con check icono cream gigante, headline en DM Serif y referencia de la operación visible (#AR-2026-0042), siguiendo la heurística "feedback claro" de Nielsen y previniendo la ansiedad post-acción del usuario.
+Hero CTA secundario (bloque rojo de cierre): Antes del footer, un CTA full-bleed en rojo Primary refuerza la conversión ("¿Tienes hambre de Ghibli?", "Pregúntale a un humano", "Pídenos el menú degustación"). Botón secundario sumi sobre rojo, patrón típico en e-commerce y hostelería para empujar al usuario al final del scroll.
+
+Microinteracciones y Estados Aunque la fase de prototipado profundizará en las animaciones, el sistema de diseño ya prevé los siguientes estados que se implementarán con Smart Animate de Figma:
+
+Hover en cards: aumento sutil de la sombra (elevación) más ligero scale 1.02 para dar feedback de interactividad al usuario.
+Hover en botones primarios: oscurecimiento del 10% del color base más aumento de elevación.
+Focus en inputs: borde rojo Primary 2px y label que sube animadamente (floating label).
+Transición entre pasos del Wizard de Reserva: slide horizontal con Smart Animate manteniendo el stepper en su sitio.
+Apertura de acordeón: altura animada con easing cubic-bezier(0.4, 0, 0.2, 1) — Material standard easing.
+Selección de mesa en el plano: scale más cambio de color a oro con ring punteado animado.
+Confirmación de reserva: check icono dibujándose con stroke-dasharray y bloque verde apareciendo desde abajo.
+
+Conclusión Este sistema de diseño combina el rigor técnico de Material Design 3 (escalabilidad, accesibilidad, tokens de color y elevación) con la identidad editorial fuerte que pide el concepto de Anime Ramen (cuatro mundos Ghibli, tipografía editorial, paleta cálida con acentos por bioma). El uso disciplinado de Atomic Design — átomos (colores, tipografías, iconos), moléculas (input + label, card de plato), organismos (header, footer, formulario completo) — garantiza que el prototipo Hi-Fi de la siguiente fase sea consistente, escalable y profesional. Todas las decisiones documentadas se aplican uniformemente a las siete pantallas diseñadas (Home, Carta, Mapa Interactivo, FAQs, Contacto y los cuatro pasos del flujo de Reserva), formando un sistema cohesionado que responde tanto a las heurísticas de usabilidad como a la identidad de marca del proyecto.
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
