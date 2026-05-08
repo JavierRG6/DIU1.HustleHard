@@ -9,12 +9,12 @@ A continuación se detallan los recursos y evidencias generados durante la prác
 
 ### Landing Page
 * **Prototipo visual inicial y rediseño responsive**
-    * [Ver Landing Page Original](./LandingPage.png) | [Ver Landing Page Remodelada](./Landing-page-remodelada.png)
+    * [Ver Landing Page Original](./Landing_page.png) 
     * *Descripción técnica:* Se diseñó una primera versión de la página principal enfocada en la estética. Posteriormente, tras evaluar problemas de legibilidad y adaptabilidad, se implementó un rediseño (`Landing-page-remodelada.png`) aplicando los principios de *Auto Layout* de Figma para garantizar un comportamiento *responsive* fluido en entornos de escritorio, corrigiendo al mismo tiempo el contraste de la paleta tonal para cumplir estándares de accesibilidad visual.
 
 ### Mockup: LAYOUT HI-FI
 * **Prototipo interactivo en alta fidelidad**
-    * [Ver Landing Page Remodelada](./Landing-page-remodelada.png) | [Ver Libros](./Libros.png) | [Ver Eventos](./Eventos.png) | [Ver Foro](./Foro.png)
+    * [Ver Landing Page](./Landing_page.png) | [Ver Carta](./Libros.png) |[Ver Reserva Paso 1](./Reserva_1.png) |[Ver Reserva Paso 2](./Reserva_2.png) |[Ver Reserva Paso 3](./Reserva_3.png) |[Ver Reserva Paso 4](./Reserva_4.png) | [Ver Preguntas frecuentes(FAQs)](./Eventos.png) | [Ver Contacto](./Foro.png)
     * *Descripción técnica:* Desarrollo del sistema de vistas completo (HTML/Figma) aplicando los patrones de diseño (UI Patterns) definidos. Se implementaron interacciones simuladas (estados hover, navegación entre vistas, simulación de inputs) para las áreas principales de la web, proporcionando a los *stakeholders* una visión realista del producto final antes de la fase de desarrollo.
 
 ### Publicación del Case Study
