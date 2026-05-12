@@ -470,28 +470,28 @@ Para llevar a cabo esta tarea, optamos por la **opción 1C — Generación direc
 <br>
 
 <div align="center">
-  <img src="P4/Reserva-1-React.png" width="800" alt="Reserva Paso 1 - React">
+  <img src="P4/Reserva_1-React.png" width="800" alt="Reserva Paso 1 - React">
   <br>
   <i>Flujo de reserva — Paso 1: Fecha, hora y comensales</i>
 </div>
 <br>
 
 <div align="center">
-  <img src="P4/Reserva-2-React.png" width="800" alt="Reserva Paso 2 - React">
+  <img src="P4/Reserva_2-React.png" width="800" alt="Reserva Paso 2 - React">
   <br>
   <i>Flujo de reserva — Paso 2: Elección de bioma</i>
 </div>
 <br>
 
 <div align="center">
-  <img src="P4/Reserva-3-React.png" width="800" alt="Reserva Paso 3 - React">
+  <img src="P4/Reserva_3-React.png" width="800" alt="Reserva Paso 3 - React">
   <br>
   <i>Flujo de reserva — Paso 3: Selección de mesa</i>
 </div>
 <br>
 
 <div align="center">
-  <img src="P4/Reserva-4-React.png" width="800" alt="Reserva Paso 4 - React">
+  <img src="P4/Reserva_4-React.png" width="800" alt="Reserva Paso 4 - React">
   <br>
   <i>Flujo de reserva — Paso 4: Confirmación</i>
 </div>
