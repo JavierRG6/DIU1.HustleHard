@@ -1,6 +1,6 @@
 # Práctica 4: Exportación + Documentación
 
-Este documento detalla el proceso técnico seguido para la transposición de los diseños de alta fidelidad de Figma a un entorno de desarrollo real utilizando React. El código fuente completo de la aplicación se encuentra en la carpeta `/P4/anime-ramen`.
+Este documento detalla el proceso técnico seguido para la transposición de los diseños de alta fidelidad de Figma a un entorno de desarrollo real utilizando React. El código fuente completo de la aplicación se encuentra en la carpeta `/anime-ramen`.
 
 ## 1. Exportación a HTML/React
 
