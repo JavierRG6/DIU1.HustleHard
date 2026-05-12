@@ -436,9 +436,126 @@ El proceso de reserva se divide en 4 pasos para simplificar la experiencia del u
 Enlace al Prototipo Interactivo: Puedes navegar por la versión interactiva y probar las animaciones, estados hover y la navegación entre pantallas directamente en Figma a través del siguiente enlace: 👉 [Ver Prototipo Interactivo en Figma](https://www.figma.com/proto/waJHVowmzAK5YK8yJwvYkh/Mockup_principal?node-id=1-308&p=f&t=2KEITyGYh89mQHJ3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A308)
 <br>
 
-## Paso 4. Pruebas de Evaluación 
+## Paso 4. Exportación y Documentación
 
-### 4.a Reclutamiento de usuarios 
+### 4.a Exportación a HTML/React
+![Método UX](img/usabilityReview.png)
+----
+
+El objetivo de esta fase ha sido transformar los diseños visuales y prototipos elaborados en Figma a un proyecto web funcional construido con **React (Vite, JavaScript y Tailwind CSS)**.
+
+Para llevar a cabo esta tarea, optamos por la **opción 1C — Generación directa en React**, construyendo los componentes desde cero tomando como referencia el prototipo de Figma y el Design System definido en la práctica anterior:
+
+1. **Construcción de componentes atómicos:** Se crearon los átomos del sistema (`Button`, `Badge`, `Logo`, `FormField`), las moléculas (`Navbar`, `Footer`, `Stepper`, `CardPlato`) y los organismos (páginas completas como `Reserva`, `Carta` o `Mapa`), siguiendo estrictamente la metodología **Atomic Design**.
+2. **Sistema de estilos con Tailwind CSS v3:** Se trasladó fielmente la paleta de colores, tipografía y tokens de diseño del Design System de Figma a clases utilitarias de Tailwind, respetando los roles semánticos de cada color (Ramen Rojo `#C8102E`, Tatami Cream `#F4ECD8`, Tinta Sumi `#1A1A1A`, Oro Hanko `#C9A961` y los cuatro colores de bioma).
+3. **Navegación sin router externo:** Se implementó un sistema de navegación mediante `useState` en `App.jsx`, gestionando la vista activa y pasando la función `onNavegar` como prop a todos los componentes, lo que permite transitar entre las seis páginas sin necesidad de React Router.
+4. **Interactividad real:** Se implementó lógica funcional en todas las vistas: filtrado por bioma y categoría en la Carta, selección de mesa con codificación por color en el Mapa, flujo de reserva en 4 pasos con validación de campos obligatorios, acordeón en FAQs y formulario con estado de envío en Contacto. Además, el Mapa pasa los datos de mesa seleccionada directamente a la Reserva.
+
+> **Nota sobre la ubicación del código:** Todo el código fuente de la aplicación React se encuentra en el directorio `P4/anime-ramen/` de este repositorio. La WebApp está desplegada de forma optativa en Surge.sh: [https://anime-ramen-ugr.surge.sh](https://anime-ramen-ugr.surge.sh)
+
+#### Resultado Visual de las Páginas Ensambladas
+
+<div align="center">
+  <img src="P4/Landing-React.png" width="800" alt="Landing Page - React">
+  <br>
+  <i>Página principal (Landing Page)</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="P4/Carta-React.png" width="800" alt="Carta - React">
+  <br>
+  <i>Página de la carta con filtros por bioma y categoría</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="P4/Reserva-1-React.png" width="800" alt="Reserva Paso 1 - React">
+  <br>
+  <i>Flujo de reserva — Paso 1: Fecha, hora y comensales</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="P4/Reserva-2-React.png" width="800" alt="Reserva Paso 2 - React">
+  <br>
+  <i>Flujo de reserva — Paso 2: Elección de bioma</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="P4/Reserva-3-React.png" width="800" alt="Reserva Paso 3 - React">
+  <br>
+  <i>Flujo de reserva — Paso 3: Selección de mesa</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="P4/Reserva-4-React.png" width="800" alt="Reserva Paso 4 - React">
+  <br>
+  <i>Flujo de reserva — Paso 4: Confirmación</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="P4/Mapa-React.png" width="800" alt="Mapa Interactivo - React">
+  <br>
+  <i>Mapa interactivo del restaurante con selección de mesa</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="P4/FAQs-React.png" width="800" alt="FAQs - React">
+  <br>
+  <i>Página de preguntas frecuentes con acordeón y filtros</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="P4/Contacto-React.png" width="800" alt="Contacto - React">
+  <br>
+  <i>Página de contacto con formulario interactivo</i>
+</div>
+<br>
+
+---
+
+### 4.b Documentación con Storybook
+![Método UX](img/usabilityReview.png)
+----
+
+Dado que hemos construido nuestra interfaz basándonos en la metodología de **Diseño Atómico**, se instaló y configuró **Storybook 10** dentro del proyecto para documentar visualmente los componentes del sistema de diseño.
+
+Se crearon historias (`.stories.jsx`) para los siguientes componentes:
+
+| Componente | Variantes documentadas |
+|---|---|
+| `Button` | Primary, Secondary, Outline |
+| `Badge` | Rojo, Verde, Oro, Sumi |
+| `Navbar` | Activo en cada sección |
+| `Footer` | Default |
+| `CardPlato` | Default, Signature |
+| `Stepper` | Paso 1, 2, 3, Completado |
+| `FormField` | Default, Email |
+| `Logo` | Small, Medium, Large |
+
+Storybook está disponible ejecutando `npm run storybook` desde la carpeta `/anime-ramen`.
+
+---
+
+### 4.c Briefing del proceso
+![Método UX](img/usabilityReview.png)
+----
+
+Para la migración del diseño de Figma a producción se optó por la **opción 1C**, construyendo los componentes directamente en React partiendo del sistema de diseño definido en la práctica anterior. Se utilizó **Vite** como bundler, **React** como framework y **Tailwind CSS v3** para los estilos, respetando fielmente la paleta de colores, tipografía y tokens de diseño del sistema Atomic Design desarrollado en Figma.
+
+Se trasladaron al código todos los elementos definidos en el Design System: la paleta tonal completa con sus roles semánticos, la jerarquía tipográfica (DM Serif Display para titulares, Inter para cuerpo), los patrones UI (Stepper de 4 pasos en la reserva, acordeón en FAQs, grid de mesas con codificación por color, tabs de bioma, badges y pills), los estados de los componentes (hover, seleccionado, deshabilitado, error de validación) y el layout responsive con Flexbox y CSS Grid de Tailwind.
+
+El principal problema encontrado fue la incompatibilidad de **Tailwind CSS v4** con el sistema de plugins de PostCSS, lo que obligó a degradar a la versión estable v3. También se detectó un problema de versión de Node.js (v18 instalada, v20 requerida por Vite 9), resuelto mediante la instalación de **nvm**. Adicionalmente, la página aparecía en blanco al acceder a la URL de Surge por problemas de routing en cliente, solucionado copiando `index.html` como `200.html` antes del despliegue.
+
+## Paso 5. Pruebas de Evaluación 
+
+### 5.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
 
@@ -455,7 +572,7 @@ Enlace al Prototipo Interactivo: Puedes navegar por la versión interactiva y pr
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-### 4.b Diseño de las pruebas 
+### 5.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
@@ -463,7 +580,7 @@ Enlace al Prototipo Interactivo: Puedes navegar por la versión interactiva y pr
 
 
 
-### 4.c Cuestionario SUS
+### 5.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
@@ -473,13 +590,13 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
 
-### 4.d A/B Testing
+### 5.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
-### 4.e Aplicación del método Eye Tracking 
+### 5.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
@@ -492,7 +609,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
 
 
-### 4.f Usability Report de B
+### 5.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
@@ -505,24 +622,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 <br>
 
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
 
 ## Conclusiones finales & Valoración de las prácticas
 
