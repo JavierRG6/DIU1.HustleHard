@@ -539,7 +539,7 @@ Se crearon historias (`.stories.jsx`) para los siguientes componentes:
 | `FormField` | Default, Email |
 | `Logo` | Small, Medium, Large |
 
-Storybook está disponible ejecutando `npm run storybook` desde la carpeta `/anime-ramen`.
+Storybook está disponible ejecutando `npm run storybook` desde la carpeta `/P4/anime-ramen`.
 
 ---
 
