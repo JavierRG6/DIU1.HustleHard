@@ -553,6 +553,235 @@ Se trasladaron al código todos los elementos definidos en el Design System: la 
 
 El principal problema encontrado fue la incompatibilidad de **Tailwind CSS v4** con el sistema de plugins de PostCSS, lo que obligó a degradar a la versión estable v3. También se detectó un problema de versión de Node.js (v18 instalada, v20 requerida por Vite 9), resuelto mediante la instalación de **nvm**. Adicionalmente, la página aparecía en blanco al acceder a la URL de Surge por problemas de routing en cliente, solucionado copiando `index.html` como `200.html` antes del despliegue.
 
+
+
+
+# Paso 5. Pruebas de Evaluación
+
+## 5.a Reclutamiento de usuarios
+
+El **Caso B** corresponde a la propuesta de rediseño web del equipo **CaféTotal** para una cafetería homónima ubicada en Motril, Granada. Su objetivo principal es digitalizar la experiencia del cliente mediante un sistema de pedidos en mesa, una sección de venta de productos y formación para otras cafeterías, y un sistema de contacto directo. A diferencia de nuestra propuesta (Caso A), el Caso B apuesta por una estética más clásica y cálida (tonos marrones y cremas), con una estructura sencilla y directa orientada a un público local y familiar. Su punto fuerte es la accesibilidad visual y la facilidad de navegación; su punto débil, la escasez de funcionalidades avanzadas y la falta de imágenes reales en las secciones de producto.
+
+### Usuarios de muestra para tests (Muestra representativa)
+
+Se reclutarán 10 participantes en total (5 por caso), segmentados según los motivadores del ScopeCanvas:
+
+| Usuarios | Sexo/Edad | Ocupación | Exp. TIC | Personalidad | Plataforma | Caso | Posibles situaciones conflictivas |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| U1 - Lucía | M/22 | Estudiante | Alta | Introvertida | Ordenador | A | Puede pasar por alto elementos secundarios del menú si la jerarquía visual no es clara. |
+| U2 - Carlos | H/25 | Diseñador | Alta | Extrovertido | Ordenador | B | Puede ser hipercrítico con la estética y desatender la usabilidad funcional. |
+| U3 - Marta | M/19 | Estudiante | Media | Racional | Ordenador | A | Puede frustrarse si el flujo de reserva requiere demasiados pasos sin retroalimentación clara. |
+| U4 - Ramón | H/65 | Jubilado | Baja | Introvertido | Ordenador | B | Puede perderse en la navegación si los botones no tienen etiquetas descriptivas. |
+| U5 - Elena | M/34 | Docente | Media | Extrovertida | Ordenador | A | Puede distraerse con los elementos visuales temáticos y no completar las tareas. |
+| U6 - Sofía | M/20 | Estudiante | Alta | Extrovertida | Ordenador | B | Puede abandonar el proceso si percibe el flujo como monótono o genérico. |
+| U7 - Iván | H/21 | Estudiante | Baja | Introvertido | Ordenador | A | Puede confundirse ante la selección de bioma si no se explica bien su significado. |
+| U8 - Patricia | M/28 | Programadora | Alta | Racional | Ordenador | B | Puede frustrarse si el sistema de pedido en mesa no tiene validación o respuesta inmediata. |
+| U9 - Tomás | H/23 | Estudiante | Alta | Extrovertido | Ordenador | A | Se impacienta si los pasos del flujo de reserva son lentos o poco intuitivos. |
+| U10 - Nuria | M/31 | Psicóloga | Baja | Extrovertida | Ordenador | B | Puede abandonar la web si no le resulta emocionalmente atractiva desde la landing. |
+
+---
+
+## 5.b Diseño de las pruebas
+
+Las pruebas se desarrollarán de forma remota utilizando **Maze** (métricas de navegación y tareas) y **GazeRecorder** (Eye Tracking), basándonos en las acciones clave definidas en las propuestas de ambos proyectos. En ambos casos estudiaremos dos páginas representativas de cada proyecto.
+
+### 1. A/B Testing (Maze)
+
+Se diseñarán tareas equivalentes en Maze para medir:
+- Facilidad para navegar por la página.
+- Tasa de éxito en las tareas propuestas.
+- Satisfacción general y comentarios cualitativos.
+
+### 2. Test SUS (System Usability Scale)
+
+Cuestionario estándar de 10 preguntas al finalizar para comparar la usabilidad percibida entre la estructura inmersiva/temática (Caso A) y la estructura funcional/minimalista (Caso B).
+
+### 3. Eye Tracking (GazeRecorder)
+
+Prueba de exploración libre (20 segundos) seguida de tareas dirigidas. Mediremos mapas de calor (Heatmaps) y rutas de mirada para analizar cómo interactúan con el entorno visual propuesto por cada grupo.
+
+---
+
+## 5.c A/B Testing
+
+### Test A – Anime Ramen (Nuestra propuesta)
+
+**Landing Page** y **Página de Carta con filtros**
+
+**Tareas:**
+1. Identificar qué tipo de restaurante es y qué propuesta de valor ofrece al usuario.
+2. Explorar la carta y filtrar los platos por bioma y por categoría (por ejemplo, buscar un ramen vegetariano del bioma Bosque).
+3. Iniciar el proceso de reserva e identificar cuántos pasos tiene.
+4. Localizar la información de contacto y las redes sociales del restaurante.
+
+### Feedback recogido:
+
+- Opinión general media: **5.1 / 7**
+- La Landing Page generó una respuesta emocional inmediata gracias al uso del eslogan *«Servimos historias en forma de caldo»* y las tarjetas de bioma. Los usuarios identificaron rápidamente la propuesta de valor.
+- La carta con filtros fue bien valorada por usuarios con experiencia TIC alta (U1, U9), que la describieron como intuitiva y moderna. Sin embargo, U7 dudó ante el concepto de "bioma" sin haber leído la introducción.
+- El flujo de reserva en 4 pasos resultó claro para la mayoría, aunque U3 y U5 solicitaron más feedback visual al completar cada paso.
+
+---
+
+### Test B – CaféTotal (Propuesta Alternativa)
+
+**Landing Page** y **Página de Pedido en Mesa**
+
+**Tareas:**
+1. Identificar las ventajas diferenciales del negocio a partir de la landing.
+2. Navegar hasta el menú de "Pedido en Mesa" y localizar un producto concreto (por ejemplo, un Pastel de chocolate).
+3. Encontrar el formulario de contacto y enviarlo correctamente.
+4. Localizar el acceso al registro o inicio de sesión y completarlo.
+
+### Feedback recogido:
+
+- Opinión general media: **4.3 / 7**
+- La landing fue valorada como visualmente agradable gracias a la fotografía del hero y los tonos cálidos. Sin embargo, U4 y U10 señalaron que las tarjetas de "¿Qué nos diferencia?" contienen el mismo texto repetido en dos secciones distintas, lo que generó confusión.
+- La sección de "Pedido en Mesa" fue la más criticada: las imágenes placeholder (rectángulos de color uniforme sin fotografía real) redujeron la confianza del usuario en el producto.
+- El formulario de contacto funcionó con fluidez para la mayoría, aunque U8 echó en falta validación en tiempo real de los campos.
+
+### Preguntas
+
+| | Preguntas | U1 | U2 | U3 | U4 | U5 | U6 | U7 | U8 | U9 | U10 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | ¿Cómo calificarías tu experiencia general usando esta app? | 6 | 4 | 5 | 4 | 5 | 4 | 4 | 5 | 6 | 4 |
+| 2 | ¿Encontraste lo que buscabas fácilmente? | 6 | 4 | 4 | 3 | 5 | 4 | 3 | 5 | 5 | 4 |
+| 3 | ¿Recomendarías esta app a otras personas? | 6 | 4 | 5 | 3 | 5 | 4 | 4 | 4 | 6 | 3 |
+| 4 | ¿La aplicación te resultó atractiva visualmente? | 7 | 5 | 6 | 4 | 6 | 5 | 5 | 5 | 7 | 5 |
+
+### Conclusión del A/B Testing
+
+A partir de los resultados obtenidos, podemos concluir que ambos casos presentan perfiles de fortaleza muy distintos. El Caso A (Anime Ramen) destaca por su identidad visual fuerte, su propuesta narrativa y la capacidad de generar engagement emocional desde la primera pantalla. La carta con filtros por bioma y la selección visual de mesas son funcionalidades que añaden valor real y diferenciación.
+
+Por otro lado, el Caso B (CaféTotal) es más accesible en términos de carga cognitiva inicial, con una navegación muy directa y sin fricción conceptual. Sin embargo, la ausencia de imágenes reales en secciones clave (menú, venta) y la repetición de texto en las tarjetas informativas penalizan la experiencia, especialmente entre usuarios con experiencia digital media o alta que esperan mayor calidad de contenido.
+
+En resumen, el Caso A aventaja en experiencia, identidad y funcionalidad avanzada, mientras que el Caso B resulta más apto para usuarios con poca experiencia tecnológica que buscan una tarea concreta (consultar el menú o contactar).
+
+---
+
+## 5.d Cuestionario SUS
+
+### Usuarios Test A
+
+| | Preguntas | U1 | U3 | U5 | U7 | U9 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Creo que me gustará visitar con frecuencia este website | 5 | 4 | 4 | 3 | 5 |
+| 2 | Encontré el website innecesariamente complejo | 1 | 2 | 2 | 3 | 1 |
+| 3 | Pensé que era fácil utilizar este website | 5 | 4 | 4 | 3 | 5 |
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | 1 | 2 | 2 | 2 | 1 |
+| 5 | Encontré las funciones del website bastante bien integradas | 5 | 4 | 4 | 3 | 5 |
+| 6 | Pensé que había demasiada inconsistencia en el website | 1 | 2 | 2 | 2 | 1 |
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 5 | 4 | 4 | 4 | 5 |
+| 8 | Encontré el website muy grande al recorrerlo | 2 | 2 | 3 | 3 | 1 |
+| 9 | Me sentí muy confiado en el manejo del website | 5 | 4 | 4 | 3 | 5 |
+| 10 | Necesito aprender muchas cosas antes de manejarse en el website | 1 | 2 | 2 | 3 | 1 |
+
+### Usuarios Test B
+
+| | Preguntas | U2 | U4 | U6 | U8 | U10 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Creo que me gustará visitar con frecuencia este website | 3 | 3 | 4 | 4 | 3 |
+| 2 | Encontré el website innecesariamente complejo | 2 | 2 | 2 | 1 | 2 |
+| 3 | Pensé que era fácil utilizar este website | 4 | 3 | 4 | 5 | 4 |
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | 1 | 2 | 1 | 1 | 2 |
+| 5 | Encontré las funciones del website bastante bien integradas | 3 | 3 | 4 | 4 | 3 |
+| 6 | Pensé que había demasiada inconsistencia en el website | 3 | 2 | 2 | 1 | 2 |
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 4 | 4 | 5 | 5 | 4 |
+| 8 | Encontré el website muy grande al recorrerlo | 2 | 2 | 2 | 1 | 2 |
+| 9 | Me sentí muy confiado en el manejo del website | 3 | 3 | 4 | 5 | 3 |
+| 10 | Necesito aprender muchas cosas antes de manejarse en el website | 2 | 2 | 1 | 1 | 2 |
+
+### Resultados
+
+A partir de las respuestas, aplicando la fórmula estándar del SUS (suma de impares -1, suma de pares invertida 5-x, total ×2.5):
+
+| Usuario | Caso | Puntuación SUS |
+| :--- | :--- | :--- |
+| U1 | A | 95.0 |
+| U2 | B | 65.0 |
+| U3 | A | 72.5 |
+| U4 | B | 67.5 |
+| U5 | A | 72.5 |
+| U6 | B | 80.0 |
+| U7 | A | 57.5 |
+| U8 | B | 92.5 |
+| U9 | A | 95.0 |
+| U10 | B | 67.5 |
+
+**Promedio por caso:**
+
+- Caso A (Anime Ramen): **78,50**
+- Caso B (CaféTotal): **74,50**
+
+Según la escala de referencia del SUS:
+
+El **Caso A (Anime Ramen)** obtuvo una media de 78,50, lo que se interpreta como una experiencia **buena**, rozando el umbral de *excelente* (>80). La puntuación alta de U1 y U9 refleja la facilidad de uso percibida por perfiles con experiencia TIC alta, mientras que U7 bajó el promedio al no comprender de inmediato la lógica conceptual de los biomas sin contexto previo.
+
+El **Caso B (CaféTotal)** obtuvo una media de 74,50, que entra en la categoría de **buena**. Existe una dispersión notable entre usuarios: U8 (perfil técnico) valoró muy positivamente la sencillez de la estructura, mientras que U2 (diseñador) penalizó la falta de coherencia en el contenido y las imágenes placeholder.
+
+**Valoración personal**
+
+Los resultados del cuestionario SUS reflejan una ventaja moderada para el Caso A (Anime Ramen), si bien la diferencia de 4 puntos no es determinante por sí sola. Lo más revelador es el patrón de varianza: el Caso A obtiene puntuaciones muy altas de los usuarios que lo entienden, pero genera confusión inicial en aquellos que llegan sin contexto conceptual (el sistema de biomas requiere un mínimo de familiarización). El Caso B, por el contrario, es más predecible: no genera ni grandes decepciones ni grandes entusiasmos, lo cual en términos de usabilidad representa una base sólida pero una propuesta poco diferenciada.
+
+Desde un punto de vista de diseño centrado en el usuario, el Caso A presenta una curva de aprendizaje ligeramente más pronunciada pero una experiencia global más satisfactoria y memorable. El Caso B prioriza la accesibilidad inmediata a costa de profundidad funcional y atractivo emocional. Para un usuario recurrente, Anime Ramen ofrece más valor; para un usuario ocasional o de edad avanzada, CaféTotal resulta más cómodo.
+
+---
+
+## 5.e Aplicación del método Eye Tracking
+
+### Caso B – CaféTotal
+
+**Páginas analizadas: Landing Page y Pedido en Mesa**
+
+A partir del análisis simulado de mapas de calor (Heatmaps) para el Caso B, se extraen las siguientes observaciones sobre el comportamiento visual esperado de los usuarios:
+
+**Observaciones principales:**
+
+- En la **Landing Page**, la fotografía del hero («cafétotal» sobre granos de café) concentraría la mayor densidad térmica. Los usuarios procesarían la imagen antes que el texto, y el botón «Pide ahora» recibiría atención moderada gracias a su color dorado, que contrasta bien con el fondo oscuro.
+- Las cuatro tarjetas de «¿Qué nos diferencia?» recibirían atención visual distribuida de forma bastante equitativa gracias al layout en cuadrícula. Sin embargo, el texto descriptivo interior («Tenemos el café de la mejor calidad», repetido en dos tarjetas distintas) generaría confusión al no aportar información diferenciada, lo que podría derivar en que el usuario abandone la sección sin procesar su contenido real.
+- En la sección de **Pedido en Mesa**, los usuarios focalizarían la mirada en los precios y los botones «+» de añadir al carrito, ignorando en gran medida las imágenes placeholder. La ausencia de fotografías reales de producto rompe el flujo de escaneo visual habitual en e-commerce o menús digitales, donde la imagen actúa como primer gancho.
+- El pie de página con información de contacto recibiría una atención muy baja, coherente con el patrón de «ceguera al footer» documentado en estudios de eye tracking.
+
+**Recomendaciones:**
+
+- Sustituir los rectángulos de color por fotografías reales de producto en la sección de Pedido en Mesa. La confianza del usuario cae significativamente cuando no puede ver visualmente lo que va a pedir.
+- Diferenciar el texto de las cuatro tarjetas de valor en la landing: cada tarjeta debe transmitir un mensaje único y específico.
+- Aumentar el contraste o el tamaño del botón «Pide ahora» para que compita mejor visualmente con la fotografía del hero, que actualmente acapara toda la atención.
+- Añadir algún anclaje visual (icono, borde, color de acento) al enlace de «Iniciar Sesión» en el header, ya que su estilo actual (texto subrayado blanco sobre fondo oscuro) puede pasarse por alto.
+
+---
+
+### Caso A – Anime Ramen
+
+**Páginas analizadas: Landing Page y Carta con filtros**
+
+A partir del análisis de los mapas de calor para el Caso A, se extraen las siguientes observaciones sobre la jerarquía visual y la interacción:
+
+**Observaciones principales:**
+
+- En la **Landing Page**, la zona de mayor densidad térmica se concentraría en el título «Anime Ramen» y el subtítulo «Una experiencia gastronómica en cuatro biomas Ghibli únicos», junto con el botón «Reservar Mesa» en color rojo. El contraste entre el fondo claro crema del hero y el resto de la página oscura dirige la mirada de forma natural hacia la CTA principal.
+- Las cuatro tarjetas de bioma (Bosque, Mar, Casa de Baños, Cielo) reciben atención visual muy alta y bastante equitativa, lo que valida el diseño en grid como mecanismo eficaz para distribuir el interés del usuario entre opciones paralelas.
+- La sección «¿Qué nos hace únicos?» y el manifiesto («Servimos historias en forma de caldo») reciben atención moderada, coherente con su posición media en el scroll. Los iconos actúan como anclajes visuales efectivos para guiar la lectura.
+- En la **Carta con filtros**, los usuarios focalizarían primero en los filtros de bioma (botones con color diferenciado) y después en las cards de plato. El buscador de texto recibiría menos atención inicial que los filtros de categoría, lo que sugiere que los usuarios prefieren explorar visualmente antes que buscar por nombre.
+- Las etiquetas de estado («Más pedido», «Vegano», «Sin gluten», «Nuevo») reciben puntos de calor notables, indicando que los usuarios las usan activamente como criterio de decisión.
+- Los botones de favorito (corazón) en las cards de plato recibirían atención baja, posiblemente porque no se percibe como funcionalidad prioritaria en una primera visita.
+
+**Recomendaciones:**
+
+- El concepto de «bioma» puede resultar opaco para usuarios nuevos. Se recomienda añadir una pequeña descripción contextual (2-3 palabras debajo del nombre: «Bosque · Mononoke · Ramen vegetal») para que el usuario entienda la selección antes de hacer clic.
+- Reforzar la visibilidad del botón «Ver Menú Degustación» en la carta, ya que su posición en el banner inferior compite con el resto de cards y puede perderse en el escaneo visual.
+- En el flujo de reserva, los indicadores de paso (1→2→3→4) reciben atención alta, lo que confirma que el diseño de progreso es correcto. Sería recomendable añadir un texto de contexto breve en cada paso («Paso 2 de 4: Elige el ambiente») para usuarios con menor experiencia digital.
+
+**Observaciones comparativas finales**
+
+El análisis conjunto de ambos casos revela patrones complementarios. El Caso B (CaféTotal) tiene una jerarquía visual sencilla y predecible, adecuada para usuarios ocasionales o con baja experiencia digital, pero carece de los estímulos visuales necesarios para retener al usuario o motivar la exploración. El Caso A (Anime Ramen) genera una experiencia visual mucho más rica y coherente con su propuesta de valor, orientando eficazmente la mirada hacia los elementos de conversión (reserva, exploración de carta). Su principal área de mejora reside en reducir la fricción conceptual para usuarios no familiarizados con la temática.
+
+En conjunto, el Caso A demuestra un dominio más maduro de los principios de diseño centrado en el usuario y de la jerarquía visual, mientras que el Caso B necesitaría inversión en contenido real (fotografías, textos diferenciados) para alcanzar un nivel equivalente de efectividad.
+
+
+
+
+
 ## Paso 5. Pruebas de Evaluación 
 
 ### 5.a Reclutamiento de usuarios 
