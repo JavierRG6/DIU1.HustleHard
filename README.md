@@ -743,6 +743,9 @@ A partir del análisis simulado de mapas de calor (Heatmaps) para el Caso B, se 
 - El pie de página con información de contacto recibiría una atención muy baja, coherente con el patrón de «ceguera al footer» documentado en estudios de eye tracking.
 
 ![Eye Tracking B1](P5/CasoB1.jpg)
+
+---
+
 ![Eye Tracking B2](P5/CasoB2.jpg)
 
 **Recomendaciones:**
@@ -770,6 +773,9 @@ A partir del análisis de los mapas de calor para el Caso A, se extraen las sigu
 - Los botones de favorito (corazón) en las cards de plato recibirían atención baja, posiblemente porque no se percibe como funcionalidad prioritaria en una primera visita.
 
 ![Eye Tracking B1](P5/CasoA1.jpg)
+
+---
+
 ![Eye Tracking B2](P5/CasoA2.jpg)
 
 **Recomendaciones:**
