@@ -742,6 +742,9 @@ A partir del análisis simulado de mapas de calor (Heatmaps) para el Caso B, se 
 - En la sección de **Pedido en Mesa**, los usuarios focalizarían la mirada en los precios y los botones «+» de añadir al carrito, ignorando en gran medida las imágenes placeholder. La ausencia de fotografías reales de producto rompe el flujo de escaneo visual habitual en e-commerce o menús digitales, donde la imagen actúa como primer gancho.
 - El pie de página con información de contacto recibiría una atención muy baja, coherente con el patrón de «ceguera al footer» documentado en estudios de eye tracking.
 
+![Eye Tracking B1](P5/CasoB1.jpg)
+![Eye Tracking B2](P5/CasoB2.jpg)
+
 **Recomendaciones:**
 
 - Sustituir los rectángulos de color por fotografías reales de producto en la sección de Pedido en Mesa. La confianza del usuario cae significativamente cuando no puede ver visualmente lo que va a pedir.
@@ -766,6 +769,9 @@ A partir del análisis de los mapas de calor para el Caso A, se extraen las sigu
 - Las etiquetas de estado («Más pedido», «Vegano», «Sin gluten», «Nuevo») reciben puntos de calor notables, indicando que los usuarios las usan activamente como criterio de decisión.
 - Los botones de favorito (corazón) en las cards de plato recibirían atención baja, posiblemente porque no se percibe como funcionalidad prioritaria en una primera visita.
 
+![Eye Tracking B1](P5/CasoA1.jpg)
+![Eye Tracking B2](P5/CasoA2.jpg)
+
 **Recomendaciones:**
 
 - El concepto de «bioma» puede resultar opaco para usuarios nuevos. Se recomienda añadir una pequeña descripción contextual (2-3 palabras debajo del nombre: «Bosque · Mononoke · Ramen vegetal») para que el usuario entienda la selección antes de hacer clic.
@@ -777,76 +783,6 @@ A partir del análisis de los mapas de calor para el Caso A, se extraen las sigu
 El análisis conjunto de ambos casos revela patrones complementarios. El Caso B (CaféTotal) tiene una jerarquía visual sencilla y predecible, adecuada para usuarios ocasionales o con baja experiencia digital, pero carece de los estímulos visuales necesarios para retener al usuario o motivar la exploración. El Caso A (Anime Ramen) genera una experiencia visual mucho más rica y coherente con su propuesta de valor, orientando eficazmente la mirada hacia los elementos de conversión (reserva, exploración de carta). Su principal área de mejora reside en reducir la fricción conceptual para usuarios no familiarizados con la temática.
 
 En conjunto, el Caso A demuestra un dominio más maduro de los principios de diseño centrado en el usuario y de la jerarquía visual, mientras que el Caso B necesitaría inversión en contenido real (fotografías, textos diferenciados) para alcanzar un nivel equivalente de efectividad.
-
-
-
-
-
-## Paso 5. Pruebas de Evaluación 
-
-### 5.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
-
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-### 5.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
-
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
-
-
-### 5.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
-
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
-
-
-### 5.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
-
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
-
-### 5.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
-
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
-
-### 5.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
-
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
 
 
 <br>
