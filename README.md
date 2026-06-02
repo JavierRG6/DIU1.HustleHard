@@ -790,6 +790,12 @@ El análisis conjunto de ambos casos revela patrones complementarios. El Caso B 
 
 En conjunto, el Caso A demuestra un dominio más maduro de los principios de diseño centrado en el usuario y de la jerarquía visual, mientras que el Caso B necesitaría inversión en contenido real (fotografías, textos diferenciados) para alcanzar un nivel equivalente de efectividad.
 
+### 📑 Documentación de la práctica
+
+El informe completo de pruebas de evaluación (A/B Testing, SUS y Eye Tracking) está disponible aquí:
+
+➡️ **[Usability Report (PDF)](P5/UsabilityReport.pdf)**
+
 
 <br>
 
