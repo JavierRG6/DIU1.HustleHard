@@ -154,6 +154,8 @@ Esta diferencia de perfil —usuario joven, universitario, nativo digital— jus
 
 **Puntuación obtenida: 68/100** (moderada)
 
+→ [Ver análisis completo de Nuestras Huertas](usability-review-NuestrasHuertas.md) (35 criterios, 68/100)
+
 **Puntos fuertes:**
 - Jerarquía visual correcta en homepage: patrón en Z (logo → propuesta de valor → CTA → prueba social).
 - Skip-to-content link presente; declaración de accesibilidad incluida.
@@ -277,8 +279,6 @@ En el análisis de *Nuestras Huertas* he aplicado directamente la **inspección 
 ---
 
 ## Conclusión
-
-→ [Ver análisis completo de Nuestras Huertas](usability-review-NuestrasHuertas.md) (35 criterios, 68/100)
 
 Este trabajo me ha permitido cerrar el ciclo iniciado en la Actividad 1: del "detectar un problema de diseño observando a alguien en la calle" al "proponer una interfaz completa para un caso real con criterios argumentados". He pasado de entender el diseño de interfaces como una actividad estética a comprenderlo como un proceso de toma de decisiones basadas en evidencia, donde cada elección puede justificarse o refutarse con principios y datos.
 
