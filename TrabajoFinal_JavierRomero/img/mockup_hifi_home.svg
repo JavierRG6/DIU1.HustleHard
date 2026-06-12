@@ -1,0 +1,151 @@
+<svg viewBox="0 0 390 844" xmlns="http://www.w3.org/2000/svg" font-family="'Arial', sans-serif">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1B5E20"/>
+      <stop offset="100%" stop-color="#2E7D32"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#1A1A1A" stop-opacity="0.6"/>
+    </linearGradient>
+    <clipPath id="screen">
+      <rect x="0" y="0" width="390" height="844" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <!-- Screen background -->
+  <rect width="390" height="844" fill="#F8F4EF"/>
+
+  <!-- ── STATUS BAR ── -->
+  <rect width="390" height="44" fill="#1B5E20"/>
+  <text x="20" y="28" font-size="13" font-weight="600" fill="white">9:41</text>
+  <text x="356" y="28" font-size="11" fill="white" text-anchor="middle">●●●</text>
+
+  <!-- ── NAVBAR ── -->
+  <rect y="44" width="390" height="52" fill="#2E7D32"/>
+  <text x="20" y="76" font-size="18" font-weight="bold" fill="white">🌿 EcoMercado UGR</text>
+  <text x="362" y="76" font-size="22" fill="white" text-anchor="middle">☰</text>
+
+  <!-- ── HERO ── -->
+  <rect y="96" width="390" height="186" fill="url(#g1)"/>
+  <!-- Decorative circles -->
+  <circle cx="340" cy="130" r="80" fill="white" fill-opacity="0.05"/>
+  <circle cx="360" cy="230" r="60" fill="white" fill-opacity="0.05"/>
+
+  <text x="20" y="140" font-size="10" fill="#A5D6A7" letter-spacing="2">PRÓXIMA EDICIÓN</text>
+  <text x="20" y="170" font-size="28" font-weight="bold" fill="white">26 Junio 2026</text>
+  <text x="20" y="192" font-size="13" fill="#C8E6C9">📍 Campus Fuentenueva · 10–14h</text>
+
+  <!-- Countdown inline -->
+  <rect x="20" y="206" width="56" height="46" rx="8" fill="white" fill-opacity="0.15"/>
+  <text x="48" y="228" font-size="20" font-weight="bold" fill="white" text-anchor="middle">14</text>
+  <text x="48" y="243" font-size="9" fill="#A5D6A7" text-anchor="middle">días</text>
+
+  <rect x="84" y="206" width="56" height="46" rx="8" fill="white" fill-opacity="0.15"/>
+  <text x="112" y="228" font-size="20" font-weight="bold" fill="white" text-anchor="middle">06</text>
+  <text x="112" y="243" font-size="9" fill="#A5D6A7" text-anchor="middle">horas</text>
+
+  <rect x="148" y="206" width="56" height="46" rx="8" fill="white" fill-opacity="0.15"/>
+  <text x="176" y="228" font-size="20" font-weight="bold" fill="white" text-anchor="middle">30</text>
+  <text x="176" y="243" font-size="9" fill="#A5D6A7" text-anchor="middle">min</text>
+
+  <!-- Hero CTA -->
+  <rect x="232" y="208" width="138" height="42" rx="8" fill="#F57F17"/>
+  <text x="301" y="234" font-size="13" font-weight="bold" fill="white" text-anchor="middle">Ver productos →</text>
+
+  <!-- ── WAVE ── -->
+  <path d="M0 282 Q97 268 195 282 Q293 296 390 282 L390 298 L0 298Z" fill="#F8F4EF"/>
+
+  <!-- ── SECTION: TEMPORADA ── -->
+  <text x="20" y="326" font-size="17" font-weight="bold" fill="#1A3C1A">🥕 Productos de temporada</text>
+  <text x="370" y="326" font-size="12" fill="#F57F17" text-anchor="end">Ver todos</text>
+  <line x1="20" y1="336" x2="370" y2="336" stroke="#E8E0D8" stroke-width="1"/>
+
+  <!-- Product card 1 -->
+  <rect x="20" y="344" width="107" height="134" rx="10" fill="white" stroke="#E8E0D8" stroke-width="1"/>
+  <rect x="20" y="344" width="107" height="72" rx="10" fill="#E8F5E9"/>
+  <rect x="20" y="404" width="107" height="12" fill="#E8F5E9"/>
+  <text x="73" y="394" font-size="32" text-anchor="middle">🍅</text>
+  <text x="73" y="432" font-size="10" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Tomate cherry</text>
+  <text x="73" y="446" font-size="9" fill="#888" text-anchor="middle">Finca El Genil</text>
+  <text x="73" y="464" font-size="13" font-weight="bold" fill="#2E7D32" text-anchor="middle">2,50€/kg</text>
+  <rect x="31" y="468" width="85" height="4" rx="2" fill="#F57F17" fill-opacity="0.3"/>
+
+  <!-- Product card 2 -->
+  <rect x="141" y="344" width="107" height="134" rx="10" fill="white" stroke="#E8E0D8" stroke-width="1"/>
+  <rect x="141" y="344" width="107" height="72" rx="10" fill="#FFF9C4"/>
+  <rect x="141" y="404" width="107" height="12" fill="#FFF9C4"/>
+  <text x="194" y="394" font-size="32" text-anchor="middle">🍯</text>
+  <text x="194" y="432" font-size="10" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Miel de romero</text>
+  <text x="194" y="446" font-size="9" fill="#888" text-anchor="middle">Apic. Sª Nevada</text>
+  <text x="194" y="464" font-size="13" font-weight="bold" fill="#2E7D32" text-anchor="middle">5,00€/250g</text>
+  <rect x="152" y="468" width="85" height="4" rx="2" fill="#F57F17" fill-opacity="0.3"/>
+
+  <!-- Product card 3 -->
+  <rect x="262" y="344" width="107" height="134" rx="10" fill="white" stroke="#E8E0D8" stroke-width="1"/>
+  <rect x="262" y="344" width="107" height="72" rx="10" fill="#F3E5F5"/>
+  <rect x="262" y="404" width="107" height="12" fill="#F3E5F5"/>
+  <text x="315" y="394" font-size="32" text-anchor="middle">🫐</text>
+  <text x="315" y="432" font-size="10" font-weight="bold" fill="#1A1A1A" text-anchor="middle">Arándanos eco</text>
+  <text x="315" y="446" font-size="9" fill="#888" text-anchor="middle">Haza del Lino</text>
+  <text x="315" y="464" font-size="13" font-weight="bold" fill="#2E7D32" text-anchor="middle">4,00€/250g</text>
+  <rect x="273" y="468" width="85" height="4" rx="2" fill="#F57F17" fill-opacity="0.3"/>
+
+  <!-- ── SECTION: PRODUCTORES ── -->
+  <text x="20" y="508" font-size="17" font-weight="bold" fill="#1A3C1A">👩‍🌾 Productores confirmados</text>
+  <text x="370" y="508" font-size="12" fill="#F57F17" text-anchor="end">Ver todos</text>
+  <line x1="20" y1="518" x2="370" y2="518" stroke="#E8E0D8" stroke-width="1"/>
+
+  <!-- Producer row 1 -->
+  <rect x="20" y="526" width="350" height="72" rx="10" fill="white" stroke="#E8E0D8" stroke-width="1"/>
+  <rect x="20" y="526" width="64" height="72" rx="10" fill="#E8F5E9"/>
+  <rect x="74" y="526" width="10" height="72" fill="#E8F5E9"/>
+  <text x="52" y="568" font-size="28" text-anchor="middle">🌱</text>
+  <text x="96" y="552" font-size="13" font-weight="bold" fill="#1A1A1A">Finca El Genil</text>
+  <text x="96" y="568" font-size="11" fill="#666">Órgiva · Cert. CAAE ecológica</text>
+  <text x="96" y="584" font-size="11" fill="#888">Verduras y hortalizas de temporada</text>
+  <text x="362" y="568" font-size="11" fill="#F57F17" text-anchor="end">Ver →</text>
+
+  <!-- Producer row 2 -->
+  <rect x="20" y="606" width="350" height="72" rx="10" fill="white" stroke="#E8E0D8" stroke-width="1"/>
+  <rect x="20" y="606" width="64" height="72" rx="10" fill="#FFF9C4"/>
+  <rect x="74" y="606" width="10" height="72" fill="#FFF9C4"/>
+  <text x="52" y="648" font-size="28" text-anchor="middle">🐝</text>
+  <text x="96" y="632" font-size="13" font-weight="bold" fill="#1A1A1A">Apicultura Sierra Nevada</text>
+  <text x="96" y="648" font-size="11" fill="#666">Güéjar Sierra · Artesanal</text>
+  <text x="96" y="664" font-size="11" fill="#888">Mieles monoflorales y propóleo</text>
+  <text x="362" y="648" font-size="11" fill="#F57F17" text-anchor="end">Ver →</text>
+
+  <!-- ── CALENDAR SECTION ── -->
+  <text x="20" y="706" font-size="17" font-weight="bold" fill="#1A3C1A">🗓 Próximas ediciones</text>
+  <line x1="20" y1="716" x2="370" y2="716" stroke="#E8E0D8" stroke-width="1"/>
+
+  <rect x="20" y="724" width="107" height="54" rx="8" fill="#2E7D32"/>
+  <text x="73" y="747" font-size="11" font-weight="bold" fill="white" text-anchor="middle">26 Jun 2026</text>
+  <text x="73" y="764" font-size="10" fill="#C8E6C9" text-anchor="middle">Fuentenueva</text>
+
+  <rect x="137" y="724" width="107" height="54" rx="8" fill="white" stroke="#E8E0D8" stroke-width="1"/>
+  <text x="190" y="747" font-size="11" fill="#555" text-anchor="middle">10 Jul 2026</text>
+  <text x="190" y="764" font-size="10" fill="#888" text-anchor="middle">Fuentenueva</text>
+
+  <rect x="254" y="724" width="107" height="54" rx="8" fill="white" stroke="#E8E0D8" stroke-width="1"/>
+  <text x="307" y="747" font-size="11" fill="#555" text-anchor="middle">24 Jul 2026</text>
+  <text x="307" y="764" font-size="10" fill="#888" text-anchor="middle">Fuentenueva</text>
+
+  <!-- ── BOTTOM NAV ── -->
+  <rect y="796" width="390" height="48" fill="white" stroke="#E8E0D8" stroke-width="1"/>
+  <text x="48" y="825" font-size="22" text-anchor="middle">🏠</text>
+  <text x="48" y="840" font-size="9" fill="#2E7D32" text-anchor="middle" font-weight="bold">Inicio</text>
+  <text x="130" y="825" font-size="22" text-anchor="middle">🔍</text>
+  <text x="130" y="840" font-size="9" fill="#888" text-anchor="middle">Buscar</text>
+  <text x="195" y="820" font-size="30" text-anchor="middle">⊕</text>
+  <rect x="170" y="798" width="50" height="50" rx="25" fill="#F57F17"/>
+  <text x="195" y="828" font-size="24" text-anchor="middle" fill="white">+</text>
+  <text x="260" y="825" font-size="22" text-anchor="middle">📍</text>
+  <text x="260" y="840" font-size="9" fill="#888" text-anchor="middle">Ediciones</text>
+  <text x="342" y="825" font-size="22" text-anchor="middle">👤</text>
+  <text x="342" y="840" font-size="9" fill="#888" text-anchor="middle">Perfil</text>
+
+  <!-- Home indicator -->
+  <rect x="155" y="833" width="80" height="4" rx="2" fill="#1A1A1A"/>
+</svg>

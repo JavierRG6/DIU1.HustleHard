@@ -1,0 +1,130 @@
+<svg viewBox="0 0 900 580" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+
+  <!-- Background -->
+  <rect width="900" height="580" fill="#FAFAFA" rx="8"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="900" height="52" fill="#2E7D32" rx="8"/>
+  <rect x="0" y="40" width="900" height="12" fill="#2E7D32"/>
+  <text x="450" y="33" text-anchor="middle" fill="white" font-size="18" font-weight="bold">SCOPE CANVAS — EcoMercado UGR</text>
+
+  <!-- Subtitles -->
+  <text x="30" y="75" fill="#555" font-size="11">Proyecto: EcoMercado UGR App</text>
+  <text x="700" y="75" fill="#555" font-size="11">Autor: Javier Romero Gálvez</text>
+
+  <!-- === USERS section (left vertical) === -->
+  <rect x="15" y="88" width="130" height="460" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.5" rx="4"/>
+  <rect x="15" y="88" width="130" height="30" fill="#2E7D32" rx="4"/>
+  <rect x="15" y="108" width="130" height="10" fill="#2E7D32"/>
+  <text x="80" y="108" text-anchor="middle" fill="white" font-size="12" font-weight="bold">USUARIOS</text>
+
+  <text x="25" y="135" fill="#333" font-size="10" font-weight="bold">Perfiles:</text>
+  <text x="25" y="151" fill="#444" font-size="9">• Estudiante UGR</text>
+  <text x="25" y="163" fill="#444" font-size="9">  (18-26a, mobile-first)</text>
+  <text x="25" y="178" fill="#444" font-size="9">• Personal UGR</text>
+  <text x="25" y="190" fill="#444" font-size="9">  (30-55a, calidad)</text>
+  <text x="25" y="205" fill="#444" font-size="9">• Productor local</text>
+  <text x="25" y="217" fill="#444" font-size="9">  (visibilidad)</text>
+
+  <line x1="25" y1="230" x2="135" y2="230" stroke="#2E7D32" stroke-width="0.5"/>
+
+  <text x="25" y="247" fill="#333" font-size="10" font-weight="bold">Necesidades:</text>
+  <text x="25" y="263" fill="#444" font-size="9">• Saber qué hay en</text>
+  <text x="25" y="275" fill="#444" font-size="9">  la próxima edición</text>
+  <text x="25" y="290" fill="#444" font-size="9">• Conocer el origen</text>
+  <text x="25" y="302" fill="#444" font-size="9">  del producto</text>
+  <text x="25" y="317" fill="#444" font-size="9">• Pre-reservar sin</text>
+  <text x="25" y="329" fill="#444" font-size="9">  desplazarse antes</text>
+  <text x="25" y="344" fill="#444" font-size="9">• Productores:</text>
+  <text x="25" y="356" fill="#444" font-size="9">  publicar stock fácil</text>
+
+  <!-- === ORGANIZATION section (right vertical) === -->
+  <rect x="755" y="88" width="130" height="460" fill="#FFF8E1" stroke="#F57F17" stroke-width="1.5" rx="4"/>
+  <rect x="755" y="88" width="130" height="30" fill="#F57F17" rx="4"/>
+  <rect x="755" y="108" width="130" height="10" fill="#F57F17"/>
+  <text x="820" y="108" text-anchor="middle" fill="white" font-size="12" font-weight="bold">ORGANIZACIÓN</text>
+
+  <text x="765" y="135" fill="#333" font-size="10" font-weight="bold">Objetivos largo plazo:</text>
+  <text x="765" y="151" fill="#444" font-size="9">• Consolidar el mercado</text>
+  <text x="765" y="163" fill="#444" font-size="9">  como referente UGR</text>
+  <text x="765" y="178" fill="#444" font-size="9">• Red estable de 10+</text>
+  <text x="765" y="190" fill="#444" font-size="9">  productores locales</text>
+
+  <text x="765" y="213" fill="#333" font-size="10" font-weight="bold">Objetivos corto plazo:</text>
+  <text x="765" y="229" fill="#444" font-size="9">• Aumentar asistencia</text>
+  <text x="765" y="241" fill="#444" font-size="9">  en cada edición</text>
+  <text x="765" y="256" fill="#444" font-size="9">• Reducir "no sé qué</text>
+  <text x="765" y="268" fill="#444" font-size="9">  habrá" como freno</text>
+  <text x="765" y="283" fill="#444" font-size="9">• Fidelizar comprador</text>
+  <text x="765" y="295" fill="#444" font-size="9">  universitario</text>
+
+  <text x="765" y="318" fill="#333" font-size="10" font-weight="bold">Métricas de éxito:</text>
+  <text x="765" y="334" fill="#444" font-size="9">• Pre-reservas/edición</text>
+  <text x="765" y="349" fill="#444" font-size="9">• Visitas a la web</text>
+  <text x="765" y="364" fill="#444" font-size="9">• Nº productores activos</text>
+  <text x="765" y="379" fill="#444" font-size="9">• Valoración usuarios</text>
+
+  <!-- === CENTER GRID === -->
+  <!-- Row 1: Necesidades / Propósito -->
+  <rect x="155" y="88" width="285" height="175" fill="#E3F2FD" stroke="#1565C0" stroke-width="1.5" rx="4"/>
+  <rect x="155" y="88" width="285" height="28" fill="#1565C0" rx="4"/>
+  <rect x="155" y="106" width="285" height="10" fill="#1565C0"/>
+  <text x="297" y="106" text-anchor="middle" fill="white" font-size="12" font-weight="bold">NECESIDADES</text>
+  <text x="165" y="133" fill="#333" font-size="9">Nuestros usuarios necesitan o desean...</text>
+  <text x="165" y="152" fill="#444" font-size="9">• Consultar qué productos/productores habrá</text>
+  <text x="165" y="166" fill="#444" font-size="9">• Conocer origen, certificación y precio antes de ir</text>
+  <text x="165" y="180" fill="#444" font-size="9">• Realizar pre-reservas sin fricción desde el móvil</text>
+  <text x="165" y="194" fill="#444" font-size="9">• Recibir avisos de la próxima edición fácilmente</text>
+  <text x="165" y="208" fill="#444" font-size="9">• Productores: publicar disponibilidad sin formación técnica</text>
+  <text x="165" y="222" fill="#444" font-size="9">• Descubrir el mercado sin haber oído hablar de él antes</text>
+  <text x="165" y="248" fill="#777" font-size="8" font-style="italic">Motivadores: sostenibilidad, precio justo, comunidad universitaria</text>
+
+  <!-- Propósito -->
+  <rect x="450" y="88" width="295" height="175" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="1.5" rx="4"/>
+  <rect x="450" y="88" width="295" height="28" fill="#6A1B9A" rx="4"/>
+  <rect x="450" y="106" width="295" height="10" fill="#6A1B9A"/>
+  <text x="597" y="106" text-anchor="middle" fill="white" font-size="12" font-weight="bold">PROPÓSITO</text>
+  <text x="460" y="133" fill="#333" font-size="9">Este proyecto vale la pena porque nuestra misión es...</text>
+  <text x="460" y="152" fill="#444" font-size="9">Conectar la comunidad universitaria con productores</text>
+  <text x="460" y="164" fill="#444" font-size="9">locales agroecológicos, reduciendo la incertidumbre</text>
+  <text x="460" y="176" fill="#444" font-size="9">sobre disponibilidad y fomentando el consumo</text>
+  <text x="460" y="188" fill="#444" font-size="9">responsable y de proximidad en el campus UGR.</text>
+  <text x="460" y="210" fill="#444" font-size="9">La plataforma debe ser tan simple que un estudiante</text>
+  <text x="460" y="222" fill="#444" font-size="9">la use por primera vez sin instrucciones y un</text>
+  <text x="460" y="234" fill="#444" font-size="9">productor publique su disponibilidad en &lt;5 minutos.</text>
+
+  <!-- Row 2: Acciones / Métricas -->
+  <rect x="155" y="273" width="285" height="275" fill="#E8F5E9" stroke="#2E7D32" stroke-width="1.5" rx="4"/>
+  <rect x="155" y="273" width="285" height="28" fill="#2E7D32" rx="4"/>
+  <rect x="155" y="291" width="285" height="10" fill="#2E7D32"/>
+  <text x="297" y="291" text-anchor="middle" fill="white" font-size="12" font-weight="bold">ACCIONES</text>
+  <text x="165" y="315" fill="#333" font-size="9">Buscamos que los usuarios realicen estas acciones:</text>
+  <text x="165" y="333" fill="#444" font-size="9">• Explorar la lista de productos y productores</text>
+  <text x="165" y="347" fill="#444" font-size="9">  disponibles para la próxima edición</text>
+  <text x="165" y="365" fill="#444" font-size="9">• Realizar una pre-reserva de producto (sin registro</text>
+  <text x="165" y="379" fill="#444" font-size="9">  obligatorio para explorar)</text>
+  <text x="165" y="397" fill="#444" font-size="9">• Consultar el calendario de próximas ediciones</text>
+  <text x="165" y="415" fill="#444" font-size="9">• Compartir la app con compañeros de facultad</text>
+  <text x="165" y="433" fill="#444" font-size="9">• Productores: publicar disponibilidad de stock</text>
+  <text x="165" y="451" fill="#444" font-size="9">• Dejar valoración tras asistir al mercado</text>
+
+  <!-- Métricas -->
+  <rect x="450" y="273" width="295" height="275" fill="#FFF3E0" stroke="#E65100" stroke-width="1.5" rx="4"/>
+  <rect x="450" y="273" width="295" height="28" fill="#E65100" rx="4"/>
+  <rect x="450" y="291" width="295" height="10" fill="#E65100"/>
+  <text x="597" y="291" text-anchor="middle" fill="white" font-size="12" font-weight="bold">MÉTRICAS</text>
+  <text x="460" y="315" fill="#333" font-size="9">Mediremos el éxito con estos indicadores:</text>
+  <text x="460" y="333" fill="#444" font-size="9">• Nº pre-reservas por edición (objetivo: &gt;30)</text>
+  <text x="460" y="351" fill="#444" font-size="9">• Tiempo medio para completar una pre-reserva</text>
+  <text x="460" y="365" fill="#444" font-size="9">  (objetivo: &lt;2 min desde home)</text>
+  <text x="460" y="383" fill="#444" font-size="9">• % usuarios que repiten en la siguiente edición</text>
+  <text x="460" y="401" fill="#444" font-size="9">• Nº productores que publican disponibilidad</text>
+  <text x="460" y="419" fill="#444" font-size="9">  activamente (objetivo: 100% de participantes)</text>
+  <text x="460" y="437" fill="#444" font-size="9">• Valoración media en encuesta post-mercado</text>
+  <text x="460" y="451" fill="#444" font-size="9">  (objetivo: NPS &gt;40)</text>
+  <text x="460" y="469" fill="#444" font-size="9">• Tráfico mobile vs desktop (esperado &gt;75% mobile)</text>
+
+  <!-- Footer -->
+  <text x="450" y="570" text-anchor="middle" fill="#aaa" font-size="9">Scope Canvas v5.0 · www.scopecanvas.com · EcoMercado UGR · Javier Romero Gálvez · DIU 2025/26</text>
+
+</svg>
