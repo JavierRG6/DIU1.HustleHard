@@ -233,8 +233,6 @@ Pantallas de alta fidelidad de la Progressive Web App, diseñadas mobile-first (
 
 <img src="mockup_confirmacion.png" width="320" alt="Mockup confirmación"/>
 
-> Los mockups han sido diseñados para importarse en **Figma** como vectores editables y conectarse mediante el modo Prototype, simulando el flujo completo: Home → Detalle producto → Pre-reserva → Confirmación con ticket QR.
-
 ### Decisiones de diseño justificadas
 
 **Mobile-first:** El perfil universitario genera tráfico predominantemente desde móvil. Un diseño que no prioriza el móvil excluye al usuario principal.
