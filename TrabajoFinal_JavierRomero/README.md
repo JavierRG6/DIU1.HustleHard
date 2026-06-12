@@ -150,11 +150,9 @@ Esta diferencia de perfil —usuario joven, universitario, nativo digital— jus
 
 ### Usability Review
 
-- [Ver Usability Review completo](usability-review-NuestrasHuertas.md)
+- [Ver Usability Review completo](usability-review-NuestrasHuertas.md)(35 criterios, 68/100)
 
 **Puntuación obtenida: 68/100** (moderada)
-
-→ [Ver análisis completo de Nuestras Huertas](usability-review-NuestrasHuertas.md) (35 criterios, 68/100)
 
 **Puntos fuertes:**
 - Jerarquía visual correcta en homepage: patrón en Z (logo → propuesta de valor → CTA → prueba social).
