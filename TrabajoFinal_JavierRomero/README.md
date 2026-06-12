@@ -4,6 +4,8 @@ Diseño Interfaces de Usuario — Universidad de Granada
 **Javier Romero Gálvez**  
 Curso: 2025/26
 
+Repositorio completo: https://github.com/JavierRG6/DIU1.HustleHard/tree/master/TrabajoFinal_JavierRomero
+
 ---
 
 ## Índice
